@@ -1,0 +1,9 @@
+/home/lindo/dev/opencv-test/bow/TEST/20101201191626.jpg pizza
+/home/lindo/dev/opencv-test/bow/TEST/20101202131934.jpg italian
+/home/lindo/dev/opencv-test/bow/TEST/20101202144812.jpg italian salad
+/home/lindo/dev/opencv-test/bow/TEST/20101202232118.jpg pizza
+/home/lindo/dev/opencv-test/bow/TEST/20101202232232.jpg pizza
+/home/lindo/dev/opencv-test/bow/TEST/20101203001044.jpg pizza
+/home/lindo/dev/opencv-test/bow/TEST/20101203201514.jpg misc
+/home/lindo/dev/opencv-test/bow/TEST/20101204162533.jpg misc
+/home/lindo/dev/opencv-test/bow/TEST/20101204192707.jpg pizza

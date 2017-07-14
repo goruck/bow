@@ -1,0 +1,3061 @@
+------- test ---------
+Read 10 actual test classes.
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101201191626.jpg
+actual class(es): pizza 
+to check: 69 points
+cookies(11.2589,9,-6.7649)
+indian(12.5862,11,-6.11648)
+italian(1.22688,1,0.710795)
+misc(2.55594,1,-2.35219)
+pizza(36.351,36,-5.03913)
+salad(36.9505,10,-35.5716)
+max_class: salad, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101202131934.jpg
+actual class(es): italian 
+to check: 55 points
+cookies(11.8875,10,6.42743)
+indian(10.8807,9,6.11463)
+italian(25.0649,25,1.80196)
+misc(3.32952,3,-1.44421)
+pizza(6.04284,5,3.39351)
+salad(3.48791,3,1.77919)
+max_class: italian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101202144812.jpg
+actual class(es): italian salad 
+to check: 61 points
+cookies(5.63991,5,2.60933)
+indian(8.0074,8,0.344162)
+italian(33.0255,33,-1.29791)
+mexican(4.24264,3,3)
+pizza(8.55299,7,4.91463)
+salad(5.15242,5,1.24398)
+max_class: italian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101202232118.jpg
+actual class(es): pizza 
+to check: 40 points
+cookies(2.00054,2,-0.046416)
+indian(10.0058,10,0.340972)
+misc(5.3783,5,-1.98145)
+pizza(7.34293,7,-2.21779)
+salad(15.585,15,-4.23006)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101202232232.jpg
+actual class(es): pizza 
+to check: 50 points
+cookies(5.00256,5,-0.159959)
+indian(1.09208,1,0.43891)
+italian(8.12763,8,-1.43472)
+mexican(1.41421,1,1)
+misc(36.9994,21,-30.4624)
+pizza(12.0362,12,0.933257)
+salad(2.42555,2,1.37233)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101203001044.jpg
+actual class(es): pizza 
+to check: 42 points
+cookies(9.00001,9,-0.0131958)
+indian(4.40502,4,-1.84504)
+italian(15.4954,15,-3.88666)
+misc(7.07029,5,-4.99889)
+pizza(9.28175,9,2.26954)
+max_class: italian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101203201514.jpg
+actual class(es): misc 
+to check: 51 points
+cookies(7.3529,6,-4.25031)
+indian(4.02965,4,-0.487929)
+italian(2.04203,2,0.412184)
+misc(77.722,12,-76.7901)
+salad(46.8569,12,-45.2942)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101204162533.jpg
+actual class(es): misc 
+to check: 47 points
+cookies(6.02134,6,0.506493)
+indian(9.01727,9,0.557871)
+misc(95.6366,16,-94.2887)
+pizza(1.19194,1,-0.648623)
+salad(16.99,5,-16.2377)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101204192707.jpg
+actual class(es): pizza 
+to check: 69 points
+cookies(11.2589,9,-6.7649)
+indian(12.5862,11,-6.11648)
+italian(1.22688,1,0.710795)
+misc(2.55594,1,-2.35219)
+pizza(36.351,36,-5.03913)
+salad(36.9505,10,-35.5716)
+max_class: salad, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101206134855.jpg
+actual class(es): cookies 
+to check: 32 points
+cookies(1.17465,1,0.616279)
+indian(4.04302,4,0.588203)
+italian(25.12,24,7.41714)
+salad(6.64808,2,-6.34011)
+max_class: italian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101206174224.jpg
+actual class(es): mexican cookies 
+to check: 58 points
+cookies(8.94228,7,5.56457)
+indian(18.4962,17,7.28755)
+italian(17.0509,17,1.31685)
+misc(4.00398,4,-0.1784)
+pizza(6.50359,5,4.15892)
+salad(5.0149,4,3.02477)
+sandwiches(5.65685,4,4)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101206174950.jpg
+actual class(es): misc 
+to check: 24 points
+cookies(7.16497,7,1.52866)
+misc(37.9333,13,-35.6361)
+pizza(4.16121,4,1.14702)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101207100304.jpg
+actual class(es): misc 
+to check: 39 points
+cookies(1.05189,1,0.326298)
+indian(23.909,9,-22.1504)
+italian(20.1383,20,2.3559)
+misc(3.01262,3,-0.27548)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101208192815.jpg
+actual class(es): pizza 
+to check: 61 points
+indian(19.7898,18,-8.224)
+italian(21.8659,21,6.09225)
+misc(1.22367,1,-0.705241)
+pizza(16.172,15,6.04435)
+salad(1.0117,1,0.153446)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101208193952.jpg
+actual class(es): pizza italian 
+to check: 60 points
+cookies(1.05396,1,0.332924)
+indian(9.8271,9,3.94614)
+italian(17.678,17,4.84901)
+misc(18.2552,10,-15.2726)
+pizza(17.1257,17,2.07146)
+salad(6.48951,5,-4.13688)
+max_class: misc, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101208195514.jpg
+actual class(es): salad italian 
+to check: 51 points
+cookies(5.69243,5,2.72098)
+indian(15.0275,14,5.46122)
+italian(21.2761,21,3.41654)
+misc(1.23579,1,-0.726071)
+salad(10.1855,10,1.93524)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101208220938.jpg
+actual class(es): pizza salad 
+to check: 76 points
+cookies(8.08495,7,4.04553)
+indian(8.53643,8,2.97836)
+italian(53.7263,53,8.80436)
+misc(1.00159,1,-0.0564364)
+pizza(4.80853,4,2.6687)
+salad(3.40801,3,1.61696)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101209134430.jpg
+actual class(es): salad italian 
+to check: 58 points
+cookies(3.40125,3,1.60266)
+indian(9.10025,9,1.34703)
+italian(31.7381,30,-10.3589)
+mexican(1.41421,1,1)
+misc(8.82815,8,-3.73311)
+pizza(6.93878,6,3.48522)
+sandwiches(1.41421,1,1)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101209142828.jpg
+actual class(es): salad italian 
+to check: 60 points
+cookies(7.45292,7,2.55851)
+indian(3.0959,3,0.764596)
+italian(42.0604,42,-2.25417)
+misc(1.02593,1,-0.229192)
+pizza(1.18006,1,0.626531)
+salad(6.31452,6,1.96804)
+max_class: italian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101209161143.jpg
+actual class(es): fruit_veggie salad 
+to check: 54 points
+cookies(10.6716,9,5.7344)
+indian(17.0426,15,8.09017)
+italian(17.0866,17,1.71811)
+misc(7.24778,7,-1.8789)
+pizza(1.25722,1,0.761968)
+salad(8.63317,5,-7.03788)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101209162444.jpg
+actual class(es): cookies salad 
+to check: 57 points
+cookies(18.1525,16,8.57402)
+indian(1.26254,1,0.770715)
+italian(16.0643,16,-1.43556)
+mexican(5.65685,4,4)
+misc(9.9761,9,-4.30379)
+pizza(7.00415,6,3.6136)
+salad(6.05366,5,3.41273)
+max_class: cookies, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101211173046.jpg
+actual class(es): misc 
+to check: 70 points
+cookies(37.4173,4,-37.2028)
+indian(1.37537,1,-0.944269)
+misc(15.624,12,-10.0054)
+pizza(1.0443,1,-0.300924)
+salad(157.324,27,-154.99)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101213000657.jpg
+actual class(es): misc 
+to check: 53 points
+cookies(11.3081,11,-2.62186)
+indian(32.6059,27,-18.2795)
+misc(5.82765,4,-4.2381)
+salad(15.3297,8,-13.0767)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101213143803.jpg
+actual class(es): indian 
+to check: 51 points
+indian(31.5932,28,-14.6333)
+misc(26.131,20,-16.8175)
+pizza(3.08309,3,0.710947)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101213163832.jpg
+actual class(es): cookies indian 
+to check: 29 points
+cookies(5.3445,5,1.88776)
+indian(2.31446,2,1.16479)
+mexican(8.48528,6,6)
+misc(19.363,11,-15.9351)
+pizza(5.00347,5,0.186446)
+max_class: misc, max_class1: mexican
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101213181057.jpg
+actual class(es): cookies salad 
+to check: 52 points
+cookies(10.8953,10,4.32534)
+indian(7.34247,7,2.21628)
+italian(18.5598,17,7.44762)
+mexican(1.41421,1,1)
+misc(1.00002,1,-0.00561698)
+pizza(1.09876,1,0.45528)
+salad(15.4975,15,3.89509)
+max_class: italian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101213190234.jpg
+actual class(es): salad cookies fruit_veggie 
+to check: 68 points
+cookies(6.63327,6,2.82848)
+indian(25.8649,24,9.64326)
+italian(9.35539,9,2.55409)
+misc(5.14767,5,-1.22415)
+pizza(13.7489,13,4.47562)
+salad(11.149,11,-1.81662)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101213195227.jpg
+actual class(es): pizza salad 
+to check: 49 points
+cookies(2.4808,2,-1.46778)
+indian(14.2954,12,7.76915)
+italian(1.11285,1,0.488302)
+mexican(1.41421,1,1)
+misc(15.9189,3,-15.6337)
+pizza(4.00026,4,0.0460005)
+salad(26.0217,26,1.06203)
+max_class: salad, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101213201603.jpg
+actual class(es): pizza 
+to check: 72 points
+cookies(12.152,8,-9.14718)
+indian(28.4769,20,-20.2716)
+italian(11.0209,11,-0.677588)
+mexican(1.41421,1,1)
+misc(2.37702,2,-1.2846)
+pizza(18.0521,17,-6.07282)
+salad(9.77804,3,-9.30645)
+wraps(4.24264,3,3)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101214120410.jpg
+actual class(es): sandwiches 
+to check: 34 points
+cookies(13.0257,12,5.06656)
+indian(14.6837,14,-4.42839)
+mexican(1.41421,1,1)
+pizza(1.39907,1,0.978462)
+salad(2.32969,2,1.19476)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101214131707.jpg
+actual class(es): italian fruit_veggie indian 
+to check: 61 points
+cookies(2.40744,2,1.34007)
+indian(36.4391,36,5.63993)
+italian(12.4095,12,3.16177)
+misc(6.26577,6,-1.80551)
+pizza(4.03786,4,-0.551654)
+salad(1.02919,1,0.243371)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101215133400.jpg
+actual class(es): pizza 
+to check: 72 points
+cookies(2.41911,2,1.36091)
+indian(38.4391,38,-5.79356)
+misc(15.6717,10,-12.0666)
+pizza(22.0889,22,-1.97994)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101215142848.jpg
+actual class(es): italian 
+to check: 27 points
+cookies(1.32421,1,0.868055)
+indian(8.50014,7,4.82207)
+italian(3.06078,3,0.606951)
+mexican(2.82843,2,2)
+misc(6.22162,6,-1.64579)
+salad(6.02992,5,3.37045)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101215144728.jpg
+actual class(es): italian salad 
+to check: 52 points
+indian(16.0131,16,0.646804)
+italian(17.0003,17,0.0947751)
+misc(29.0075,7,-28.1502)
+salad(10.8051,3,-10.3803)
+max_class: misc, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101215150354.jpg
+actual class(es): cookies salad 
+to check: 51 points
+cookies(6.27585,5,3.79292)
+indian(17.608,16,7.35134)
+italian(8.16951,8,1.65559)
+misc(12.811,11,-6.56664)
+pizza(9.00906,8,4.14285)
+salad(3.29134,3,1.35385)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101215171131.jpg
+actual class(es): sandwiches salad 
+to check: 62 points
+cookies(14.79,13,7.05301)
+indian(13.3311,12,5.80669)
+italian(23.0323,21,9.45982)
+mexican(1.41421,1,1)
+misc(3.70187,3,-2.16883)
+pizza(12.6931,10,7.81767)
+salad(2.58039,2,1.63046)
+max_class: italian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101216175058.jpg
+actual class(es): sandwiches salad 
+to check: 56 points
+cookies(14.7601,13,6.98994)
+indian(14.2697,12,7.72169)
+italian(4.45869,4,1.96974)
+mexican(2.82843,2,2)
+misc(5.3306,5,-1.84806)
+pizza(6.48399,6,2.45806)
+salad(14.169,13,5.63573)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101217160315.jpg
+actual class(es): indian 
+to check: 58 points
+cookies(3.69999,3,2.16562)
+indian(30.9882,29,10.9209)
+italian(5.05469,5,0.741563)
+misc(10.668,10,-3.71582)
+pizza(10.9512,10,4.46426)
+salad(1.088,1,0.428646)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101220172039.jpg
+actual class(es): misc 
+to check: 42 points
+cookies(15.8151,15,5.01169)
+indian(6.03487,6,-0.647815)
+italian(3.47861,3,1.76088)
+misc(2.21611,2,-0.954534)
+pizza(2.06187,2,0.501311)
+salad(12.0507,11,-4.92143)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20101221170949.jpg
+actual class(es): fruit_veggie italian 
+to check: 37 points
+cookies(5.37013,5,1.95917)
+indian(13.7038,11,8.17278)
+mexican(2.82843,2,2)
+misc(3.01618,3,-0.312033)
+pizza(16.215,13,9.69155)
+salad(2.14428,2,0.773251)
+max_class: pizza, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110104172709.jpg
+actual class(es): cookies 
+to check: 54 points
+cookies(10.3124,10,-2.51908)
+indian(1.48069,1,-1.09199)
+italian(10.0082,10,-0.405715)
+misc(12.7395,11,-6.42616)
+pizza(1.22053,1,-0.699775)
+salad(23.52,9,-21.7299)
+max_class: salad, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110105121916.jpg
+actual class(es): cookies 
+to check: 20 points
+indian(7.31526,7,-2.12437)
+misc(1.04107,1,-0.289516)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110105142138.jpg
+actual class(es): fruit_veggie cookies salad 
+to check: 38 points
+cookies(10.8546,9,6.06815)
+indian(14.1294,14,1.90793)
+mexican(1.41421,1,1)
+misc(3.19131,3,-1.08832)
+pizza(3.26771,3,1.29535)
+salad(5.06051,5,-0.780202)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110106133635.jpg
+actual class(es): misc 
+to check: 31 points
+indian(5.08079,5,-0.902438)
+italian(1.00037,1,0.0272936)
+misc(57.8155,18,-54.942)
+salad(4.52983,2,-4.0644)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110107133817.jpg
+actual class(es): sandwiches salad 
+to check: 52 points
+cookies(12.0158,11,-4.83516)
+indian(24.8898,23,-9.51315)
+italian(6.62765,6,2.81526)
+mexican(2.82843,2,2)
+pizza(1.0448,1,-0.30265)
+salad(9.39441,6,-7.22876)
+sandwiches(2.82843,2,2)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110110141530.jpg
+actual class(es): misc 
+to check: 47 points
+cookies(3.18572,2,-2.47967)
+indian(13.9807,12,-7.1735)
+misc(107.416,28,-103.702)
+salad(7.16766,2,-6.88298)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110110143701.jpg
+actual class(es): salad sandwiches 
+to check: 48 points
+cookies(5.49854,5,2.28778)
+indian(9.33229,9,-2.46812)
+italian(23.0731,21,9.55857)
+pizza(2.01919,2,0.277721)
+salad(6.06368,6,0.876471)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110110164830.jpg
+actual class(es): cookies 
+to check: 25 points
+indian(12.1737,3,-11.7983)
+mexican(1.41421,1,1)
+misc(14.0769,10,-9.90752)
+pizza(1.04223,1,0.293682)
+salad(5.80802,5,-2.95517)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110111161252.jpg
+actual class(es): salad 
+to check: 55 points
+cookies(38.1882,12,-36.2538)
+indian(6.68668,6,2.95156)
+mexican(5.65685,4,4)
+misc(1.02622,1,-0.230504)
+pizza(7.0683,6,3.73642)
+salad(41.4018,12,-39.6245)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110113132300.jpg
+actual class(es): sandwiches italian salad 
+to check: 40 points
+cookies(11.0001,11,0.0424893)
+indian(2.22375,2,-0.972136)
+mexican(4.24264,3,3)
+pizza(12.5394,11,6.01966)
+salad(13.0248,8,-10.2784)
+sandwiches(7.07107,5,5)
+max_class: salad, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110113143129.jpg
+actual class(es): indian 
+to check: 48 points
+indian(12.9971,12,4.99237)
+italian(25.6478,24,-9.04484)
+misc(14.5753,11,-9.56235)
+salad(1.00504,1,-0.100517)
+max_class: italian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110113165005.jpg
+actual class(es): italian pizza 
+to check: 50 points
+indian(2.05805,2,0.485364)
+italian(35.282,30,-18.5693)
+misc(82.2606,17,-80.4848)
+salad(4.54784,1,-4.43653)
+max_class: misc, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110113185642.jpg
+actual class(es): italian salad 
+to check: 57 points
+cookies(4.52523,4,2.11605)
+indian(16.4012,14,8.54406)
+italian(16.1128,15,5.88415)
+mexican(4.24264,3,3)
+salad(21.5138,21,4.6739)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110114133510.jpg
+actual class(es): salad sandwiches 
+to check: 55 points
+cookies(4.81567,4,2.68154)
+indian(18.8785,18,5.69176)
+italian(1.38285,1,0.955127)
+mexican(1.41421,1,1)
+misc(5.31835,3,-4.39145)
+pizza(26.5293,23,13.2213)
+salad(5.26275,5,1.64211)
+max_class: pizza, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110114142251.jpg
+actual class(es): salad sandwiches 
+to check: 53 points
+cookies(1.31436,1,0.852961)
+indian(10.3039,9,5.01699)
+mexican(4.24264,3,3)
+misc(44.7638,18,-40.9853)
+pizza(20.264,19,7.04489)
+salad(2.27986,2,1.09442)
+sandwiches(1.41421,1,1)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110117194246.jpg
+actual class(es): cookies fruit_veggie 
+to check: 65 points
+cookies(14.6073,12,8.32904)
+indian(13.7803,12,6.77463)
+italian(1.33428,1,0.883347)
+mexican(8.48528,6,6)
+misc(21.8714,15,-15.9172)
+pizza(13.1604,10,8.55552)
+salad(8.6438,8,3.27342)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110117194309.jpg
+actual class(es): cookies fruit_veggie 
+to check: 65 points
+cookies(14.6073,12,8.32904)
+indian(13.7803,12,6.77463)
+italian(1.33428,1,0.883347)
+mexican(8.48528,6,6)
+misc(21.8714,15,-15.9172)
+pizza(13.1604,10,8.55552)
+salad(8.6438,8,3.27342)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110118000439.jpg
+actual class(es): pizza 
+to check: 65 points
+cookies(7.2589,7,1.92137)
+indian(4.73688,4,2.53732)
+italian(9.34457,9,2.51414)
+misc(2.23905,2,-1.00665)
+pizza(36.0451,36,-1.80277)
+salad(7.26556,7,1.94637)
+max_class: pizza, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110118000501.jpg
+actual class(es): pizza 
+to check: 65 points
+cookies(7.2589,7,1.92137)
+indian(4.73688,4,2.53732)
+italian(9.34457,9,2.51414)
+misc(2.23905,2,-1.00665)
+pizza(36.0451,36,-1.80277)
+salad(7.26556,7,1.94637)
+max_class: pizza, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110118135214.jpg
+actual class(es): wraps salad 
+to check: 57 points
+cookies(27.2496,24,12.9051)
+indian(14.4574,13,6.32597)
+italian(5.94516,5,3.21636)
+misc(6.55285,4,-5.19035)
+pizza(6.12102,5,3.53084)
+salad(7.15989,6,3.90692)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110119132918.jpg
+actual class(es): misc 
+to check: 31 points
+cookies(13.0671,13,1.32234)
+indian(2.50123,2,1.50204)
+italian(5.79944,5,2.93829)
+misc(5.01767,4,-3.02936)
+salad(8.05692,7,3.98923)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110119165330.jpg
+actual class(es): sandwiches 
+to check: 65 points
+cookies(31.9674,31,7.80473)
+indian(15.8158,14,7.35805)
+italian(8.82657,8,3.7294)
+mexican(1.41421,1,1)
+pizza(7.19701,7,1.6724)
+salad(4.54002,4,2.1475)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110120121858.jpg
+actual class(es): misc 
+to check: 70 points
+cookies(33.4243,9,-32.1898)
+misc(3.01926,2,-2.26184)
+salad(241.076,27,-239.559)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110120121905.jpg
+actual class(es): misc 
+to check: 70 points
+cookies(33.4243,9,-32.1898)
+misc(3.01926,2,-2.26184)
+salad(241.076,27,-239.559)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110120121905_1.jpg
+actual class(es): misc 
+to check: 70 points
+cookies(33.4243,9,-32.1898)
+misc(3.01926,2,-2.26184)
+salad(241.076,27,-239.559)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110120121905_2.jpg
+actual class(es): misc 
+to check: 70 points
+cookies(33.4243,9,-32.1898)
+misc(3.01926,2,-2.26184)
+salad(241.076,27,-239.559)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110120121905_3.jpg
+actual class(es): misc 
+to check: 70 points
+cookies(33.4243,9,-32.1898)
+misc(3.01926,2,-2.26184)
+salad(241.076,27,-239.559)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110120121905_4.jpg
+actual class(es): misc 
+to check: 70 points
+cookies(33.4243,9,-32.1898)
+misc(3.01926,2,-2.26184)
+salad(241.076,27,-239.559)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110120135309.jpg
+actual class(es): indian 
+to check: 41 points
+cookies(1.00668,1,-0.115779)
+indian(27.0838,27,2.12853)
+italian(3.04825,3,0.540186)
+mexican(2.82843,2,2)
+misc(1.02587,1,-0.228928)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110120162356.jpg
+actual class(es): cookies 
+to check: 63 points
+cookies(53.8824,44,-31.1016)
+indian(2.03317,2,0.365787)
+misc(17.1865,15,-8.38912)
+salad(2.22934,2,-0.984873)
+max_class: cookies, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110123165854.jpg
+actual class(es): sandwiches indian 
+to check: 56 points
+cookies(10.2615,9,4.92932)
+indian(19.4147,18,7.27538)
+italian(15.1064,15,1.7901)
+misc(1.17161,1,-0.61046)
+pizza(8.68555,7,5.14187)
+salad(6.79328,6,3.1857)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110124201407.jpg
+actual class(es): pizza 
+to check: 70 points
+cookies(11.1223,11,-1.64497)
+italian(13.2046,13,2.31556)
+mexican(1.41421,1,1)
+misc(12.0458,6,-10.4452)
+pizza(14.1359,14,-1.95528)
+salad(136.004,20,-134.526)
+max_class: salad, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110125131838.jpg
+actual class(es): italian 
+to check: 38 points
+indian(32.2261,17,-27.3774)
+italian(16.1653,16,2.30565)
+pizza(5.22136,5,1.50419)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110125132218.jpg
+actual class(es): italian 
+to check: 46 points
+indian(12.7206,12,4.22049)
+italian(17.1639,17,-2.36646)
+mexican(4.24264,3,3)
+misc(3.29501,3,-1.36274)
+pizza(10.9902,9,6.30753)
+salad(2.28676,2,1.10872)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110125145559.jpg
+actual class(es): italian 
+to check: 51 points
+cookies(5.04118,5,0.643065)
+indian(18.1138,16,8.49174)
+italian(15.9159,15,5.32139)
+misc(6.29501,3,-5.53419)
+pizza(4.36168,4,1.73904)
+salad(8.81254,8,3.69605)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110125201949.jpg
+actual class(es): misc 
+to check: 55 points
+cookies(17.9463,17,5.75063)
+indian(23.9832,21,11.5843)
+italian(5.10949,5,1.05207)
+mexican(1.41421,1,1)
+misc(7.08275,6,-3.76368)
+pizza(4.01083,4,0.294492)
+sandwiches(1.41421,1,1)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110126002502.jpg
+actual class(es): misc 
+to check: 55 points
+cookies(17.9463,17,5.75063)
+indian(23.9832,21,11.5843)
+italian(5.10949,5,1.05207)
+mexican(1.41421,1,1)
+misc(7.08275,6,-3.76368)
+pizza(4.01083,4,0.294492)
+sandwiches(1.41421,1,1)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110126160957.jpg
+actual class(es): salad sandwiches 
+to check: 38 points
+cookies(11.538,10,5.75544)
+indian(16.2536,16,2.86021)
+italian(3.78387,3,2.30601)
+misc(1.01202,1,-0.155499)
+salad(8.22256,8,1.90014)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110127215142.jpg
+actual class(es): misc 
+to check: 29 points
+indian(6.23609,6,-1.69965)
+misc(3.13697,3,-0.91682)
+salad(32.1503,3,-32.01)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110128104435.jpg
+actual class(es): fruit_veggie sandwiches 
+to check: 46 points
+cookies(33.3376,31,12.2637)
+indian(8.64747,5,-7.05541)
+italian(3.52602,3,1.85278)
+mexican(2.82843,2,2)
+misc(1.18305,1,-0.632144)
+pizza(1.30975,1,0.845838)
+salad(3.26535,3,1.28939)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110128145636.jpg
+actual class(es): indian 
+to check: 60 points
+cookies(11.6796,10,6.03431)
+indian(14.1712,14,-2.19634)
+italian(22.0553,22,-1.56155)
+misc(5.50888,5,-2.31253)
+pizza(4.70387,4,2.47515)
+salad(6.50338,5,-4.1586)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110129134228.jpg
+actual class(es): sandwiches wraps 
+to check: 44 points
+cookies(13.0333,13,-0.930693)
+indian(5.601,5,-2.52413)
+italian(11.0732,11,-1.27119)
+mexican(1.41421,1,1)
+misc(6.14381,6,-1.32151)
+pizza(1.35018,1,0.907183)
+max_class: cookies, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110131135001.jpg
+actual class(es): pizza 
+to check: 52 points
+cookies(1.24175,1,0.736171)
+indian(9.08773,9,-1.25972)
+italian(2.02139,2,0.293322)
+mexican(1.41421,1,1)
+misc(14.9795,4,-14.4356)
+pizza(24.1556,24,-2.73716)
+salad(9.70693,6,-7.63049)
+max_class: pizza, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110203164745.jpg
+actual class(es): pizza 
+to check: 36 points
+cookies(3.00949,3,-0.238794)
+indian(16.1365,16,-2.09474)
+italian(1.08026,1,0.408608)
+misc(16.321,12,-11.0624)
+pizza(3.02141,3,0.359061)
+salad(5.60271,1,-5.51275)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110203201616.jpg
+actual class(es): fruit_veggie 
+to check: 63 points
+cookies(19.9932,19,6.22327)
+indian(7.23685,6,4.04623)
+italian(5.58203,5,2.48173)
+mexican(1.41421,1,1)
+misc(1.06434,1,-0.364453)
+pizza(18.4048,15,10.6647)
+salad(16.0634,15,5.74737)
+sandwiches(1.41421,1,1)
+max_class: cookies, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110204190141.jpg
+actual class(es): indian 
+to check: 29 points
+cookies(3.08539,3,0.720847)
+indian(3.09238,3,-0.750212)
+italian(14.5825,14,4.08037)
+mexican(5.65685,4,4)
+salad(5.16884,5,1.31029)
+max_class: italian, max_class1: mexican
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110205141811.jpg
+actual class(es): wraps cookies 
+to check: 49 points
+cookies(27.7116,25,11.9555)
+indian(17.5416,17,4.32537)
+misc(1.06648,1,-0.370654)
+pizza(4.91284,4,2.85237)
+salad(1.22672,1,0.710516)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110205224824.jpg
+actual class(es): salad italian 
+to check: 58 points
+cookies(7.77108,7,-3.37485)
+indian(19.4432,19,4.12768)
+italian(9.05549,9,-1.00097)
+mexican(4.24264,3,3)
+pizza(1.06218,1,-0.358083)
+salad(20.366,19,7.33303)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110207133441.jpg
+actual class(es): italian 
+to check: 68 points
+cookies(3.71914,3,2.19817)
+indian(3.02937,3,0.420827)
+italian(38.2335,38,-4.21897)
+mexican(1.41421,1,1)
+misc(4.3242,4,-1.64277)
+pizza(4.30615,4,1.59466)
+salad(3.00011,3,0.0254665)
+max_class: italian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110208150918.jpg
+actual class(es): sandwiches fruit_veggie 
+to check: 68 points
+cookies(5.30833,5,1.7828)
+fruit_veggie(1.41421,1,1)
+indian(12.0129,12,0.556615)
+italian(2.45913,2,-1.43085)
+mexican(4.24264,3,3)
+misc(7.40755,7,-2.42319)
+pizza(9.2316,9,2.05486)
+salad(32.2932,27,-17.7159)
+sandwiches(1.41421,1,1)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110209104438.jpg
+actual class(es): misc 
+to check: 32 points
+cookies(37.0345,4,-36.8179)
+misc(36.7546,15,-33.5545)
+salad(18.0687,3,-17.818)
+max_class: cookies, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110209124907.jpg
+actual class(es): misc 
+to check: 31 points
+indian(28.6535,20,-20.5188)
+misc(45.6903,9,-44.7951)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110209145915.jpg
+actual class(es): misc 
+to check: 19 points
+cookies(29.161,3,-29.0063)
+misc(38.2953,8,-37.4504)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110209195730.jpg
+actual class(es): salad italian 
+to check: 33 points
+cookies(1.02381,1,0.219534)
+indian(12.4815,11,5.89804)
+misc(21.0073,16,-13.6127)
+salad(14.1896,3,-13.8688)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110210165559.jpg
+actual class(es): pizza 
+to check: 42 points
+indian(2.21659,2,0.955657)
+italian(1.14185,1,0.551207)
+misc(115.39,20,-113.644)
+pizza(11.6228,11,3.7535)
+salad(6.91622,6,3.44007)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110210180749.jpg
+actual class(es): cookies 
+to check: 48 points
+cookies(8.47685,7,4.7809)
+indian(21.6186,21,-5.13452)
+mexican(2.82843,2,2)
+misc(20.7001,13,-16.1088)
+pizza(2.02819,2,-0.336958)
+salad(2.14142,2,-0.765293)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110210190148.jpg
+actual class(es): fruit_veggie cookies 
+to check: 42 points
+cookies(19.5929,19,-4.78365)
+indian(3.92757,3,-2.53491)
+misc(6.21224,4,-4.7531)
+pizza(4.05864,4,0.687427)
+salad(12.0197,12,0.687475)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110211154808.jpg
+actual class(es): salad 
+to check: 38 points
+cookies(5.68354,5,2.70233)
+indian(20.4263,18,9.65578)
+italian(2.25894,2,1.05016)
+misc(17.3738,5,-16.6388)
+pizza(1.00424,1,0.0921407)
+salad(7.13618,7,1.38746)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110214132342.jpg
+actual class(es): italian 
+to check: 56 points
+cookies(12.0004,12,0.0996227)
+indian(15.4848,15,3.84445)
+italian(10.0795,10,-1.26385)
+mexican(2.82843,2,2)
+misc(20.3644,14,-14.7889)
+salad(3.09872,3,0.775915)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110214151626.jpg
+actual class(es): sandwiches salad 
+to check: 42 points
+cookies(9.53736,8,5.19242)
+indian(2.22559,2,0.976337)
+italian(8.24703,7,4.36044)
+mexican(1.41421,1,1)
+misc(10.1683,7,-7.37523)
+pizza(8.22286,8,-1.90144)
+salad(9.89063,9,4.10179)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110215032944.jpg
+actual class(es): misc 
+to check: 33 points
+cookies(4.96111,4,2.93472)
+indian(4.02094,4,0.40986)
+italian(6.21107,6,1.60543)
+misc(26.8585,14,-22.9211)
+pizza(1.18651,1,0.638604)
+salad(19.2203,4,-18.7995)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110215131713.jpg
+actual class(es): sandwiches 
+to check: 48 points
+cookies(20.0742,19,6.47875)
+indian(5.83497,5,3.00781)
+italian(4.81952,4,2.68845)
+mexican(1.41421,1,1)
+misc(15.4773,14,-6.59898)
+pizza(3.53807,3,1.87562)
+salad(2.17105,2,0.844652)
+max_class: cookies, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110216130808.jpg
+actual class(es): mexican 
+to check: 35 points
+cookies(1.25223,1,0.753709)
+indian(16.0829,16,1.63106)
+italian(13.9327,13,5.01188)
+salad(2.13105,2,0.735787)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110216133022.jpg
+actual class(es): mexican sandwiches italian 
+to check: 39 points
+cookies(2.0137,2,0.234472)
+indian(14.4929,12,8.12677)
+italian(9.4352,9,2.83248)
+misc(3.0771,3,-0.684489)
+pizza(4.82707,4,2.70197)
+salad(9.54261,9,3.17196)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110216144125.jpg
+actual class(es): salad indian 
+to check: 52 points
+cookies(12.4427,11,5.81556)
+indian(5.80288,5,2.94507)
+italian(17.3854,16,6.80083)
+misc(12.3526,11,-5.62028)
+pizza(7.65584,7,3.1003)
+salad(2.39298,2,1.31391)
+max_class: italian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110216190957.jpg
+actual class(es): italian indian 
+to check: 50 points
+cookies(7.7331,7,3.28645)
+indian(28.1378,28,2.78085)
+italian(3.41257,3,1.62654)
+misc(4.04305,4,-0.588412)
+salad(15.1081,8,-12.8162)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110216195635.jpg
+actual class(es): pizza italian 
+to check: 54 points
+indian(5.52356,5,2.34728)
+italian(15.3515,15,3.26634)
+mexican(5.65685,4,4)
+misc(14.4381,9,-11.2898)
+pizza(17.0718,17,1.56354)
+salad(4.53809,4,2.14343)
+max_class: pizza, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110217143254.jpg
+actual class(es): italian 
+to check: 45 points
+cookies(4.03115,4,0.500191)
+indian(5.30968,5,1.78682)
+italian(19.1567,18,6.55589)
+misc(18.5058,12,-14.0877)
+pizza(5.10005,4,3.16393)
+salad(2.43997,2,1.39766)
+max_class: italian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110218175054.jpg
+actual class(es): misc 
+to check: 42 points
+cookies(45.9554,16,-43.0801)
+indian(26.2673,19,-18.1375)
+misc(3.64053,2,-3.04195)
+salad(20.6978,5,-20.0848)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110219153950.jpg
+actual class(es): fruit_veggie salad 
+to check: 47 points
+cookies(14.8699,12,8.78141)
+indian(21.9304,18,12.5277)
+mexican(2.82843,2,2)
+misc(8.77256,5,-7.20817)
+salad(10.3918,10,2.82652)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110219154748.jpg
+actual class(es): fruit_veggie 
+to check: 54 points
+cookies(18.8292,18,5.5262)
+fruit_veggie(1.41421,1,1)
+indian(8.31285,8,2.25909)
+italian(8.44394,8,2.70186)
+mexican(2.82843,2,2)
+misc(18.6589,8,-16.8569)
+pizza(9.66141,9,3.51323)
+max_class: cookies, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110222130204.jpg
+actual class(es): wraps 
+to check: 44 points
+cookies(5.61919,5,-2.56424)
+indian(12.9013,12,4.73735)
+italian(8.01368,8,0.467994)
+misc(15.0339,9,-12.0423)
+pizza(1.12351,1,0.512117)
+salad(8.05953,7,-3.9945)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110223130812.jpg
+actual class(es): cookies 
+to check: 55 points
+cookies(4.93776,4,2.89508)
+indian(25.5002,24,-8.61729)
+italian(4.232,4,1.38198)
+misc(2.10605,2,-0.659893)
+pizza(4.75899,4,2.57836)
+salad(13.1422,13,-1.92807)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110223133028.jpg
+actual class(es): misc 
+to check: 50 points
+cookies(8.22132,7,4.31163)
+indian(14.4138,14,3.42907)
+misc(24.1332,18,-16.0751)
+pizza(11.615,11,3.72945)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110223150609.jpg
+actual class(es): italian 
+to check: 50 points
+cookies(1.2253,1,0.708075)
+indian(16.3929,16,3.56766)
+italian(16.0117,16,0.6123)
+misc(51.8419,8,-51.2209)
+pizza(5,5,-0.00430906)
+salad(4.03428,4,0.524806)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110223205838.jpg
+actual class(es): misc 
+to check: 60 points
+cookies(4.29467,4,1.5634)
+indian(19.5631,9,-17.3699)
+italian(17.0056,17,0.437842)
+mexican(1.41421,1,1)
+misc(58.7684,27,-52.1989)
+pizza(3.6211,2,-3.01867)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110224132749.jpg
+actual class(es): cookies 
+to check: 58 points
+cookies(14.1264,10,-9.97772)
+indian(19.152,10,-16.334)
+italian(1.2365,1,0.727271)
+misc(55.5071,3,-55.426)
+pizza(14.0002,14,-0.0807328)
+salad(43.4239,9,-42.481)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110224141617.jpg
+actual class(es): sandwiches italian 
+to check: 52 points
+cookies(12.2666,12,2.54368)
+indian(26.4644,20,-17.331)
+mexican(1.41421,1,1)
+misc(52.2925,3,-52.2064)
+pizza(8.71566,8,-3.45871)
+salad(13.4027,5,-12.4351)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110224152917.jpg
+actual class(es): fruit_veggie cookies 
+to check: 55 points
+cookies(20.1447,20,2.41021)
+indian(12.4484,12,-3.31089)
+misc(30.9131,14,-27.5611)
+pizza(6.13957,6,1.30164)
+salad(3.70339,3,-2.17142)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110224153531.jpg
+actual class(es): fruit_veggie cookies 
+to check: 53 points
+cookies(16.4439,16,3.79498)
+indian(18.8342,16,-9.93607)
+italian(9.08432,9,1.23486)
+mexican(1.41421,1,1)
+misc(10.0211,9,-4.40717)
+pizza(1.04951,1,0.31855)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110224162448.jpg
+actual class(es): misc 
+to check: 55 points
+cookies(3.18008,3,1.05496)
+indian(28.965,24,-16.2164)
+misc(30.7675,16,-26.28)
+salad(14.622,5,-13.7405)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110224170150.jpg
+actual class(es): fruit_veggie 
+to check: 39 points
+cookies(9.05784,9,1.02197)
+indian(21.0023,21,-0.312765)
+mexican(1.41421,1,1)
+pizza(1.28658,1,0.809492)
+salad(4.29144,4,1.55448)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110225132520.jpg
+actual class(es): wraps 
+to check: 56 points
+cookies(13.1035,13,1.64394)
+indian(2.33624,2,1.20748)
+italian(2.6932,2,1.8037)
+mexican(9.8995,7,7)
+pizza(8.00052,7,3.87406)
+salad(35.0058,5,-34.6469)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110228121017.jpg
+actual class(es): cookies 
+to check: 46 points
+cookies(24.9671,24,6.88153)
+indian(7.05048,7,0.842188)
+italian(2.10845,2,-0.667502)
+mexican(2.82843,2,2)
+misc(14.3179,7,-12.49)
+pizza(1.14394,1,0.555527)
+salad(5.05938,2,-4.64729)
+max_class: cookies, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110228212450.jpg
+actual class(es): pizza 
+to check: 50 points
+italian(1.02092,1,0.205636)
+misc(40.8104,13,-38.6845)
+pizza(23.4079,22,7.99548)
+salad(16.1993,14,-8.14972)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110301131022.jpg
+actual class(es): sandwiches 
+to check: 37 points
+cookies(16.1265,15,5.92153)
+indian(8.19945,8,1.79748)
+mexican(8.48528,6,6)
+misc(4.2561,4,-1.45411)
+pizza(3.74543,3,2.24238)
+sandwiches(1.41421,1,1)
+max_class: cookies, max_class1: mexican
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110301195412.jpg
+actual class(es): italian salad 
+to check: 57 points
+cookies(2.01196,2,0.21905)
+indian(17.717,17,4.98903)
+italian(30.1437,30,-2.94001)
+pizza(1.18593,1,0.637518)
+salad(8.98315,7,-5.63)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110302132913.jpg
+actual class(es): wraps 
+to check: 28 points
+cookies(1.39074,1,0.966513)
+indian(11.4847,10,5.64791)
+italian(14.2213,13,5.76576)
+mexican(2.82843,2,2)
+pizza(2.44916,2,1.41364)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110302141436.jpg
+actual class(es): misc 
+to check: 51 points
+cookies(9.94593,9,4.23338)
+indian(27.4991,23,15.0732)
+italian(6.38085,6,2.17145)
+misc(2.01459,2,-0.241978)
+pizza(5.19605,4,3.31646)
+salad(7.09779,7,1.17416)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110302171920.jpg
+actual class(es): pizza 
+to check: 56 points
+cookies(5.09582,5,-0.983561)
+indian(3.05898,3,-0.597818)
+italian(1.16625,1,0.600118)
+misc(9.73151,9,-3.70165)
+pizza(28.4823,28,-5.21937)
+salad(10.0927,10,-1.36511)
+max_class: pizza, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110303103242.jpg
+actual class(es): cookies 
+to check: 53 points
+cookies(37.8464,11,-36.2125)
+indian(31.3525,26,-17.5208)
+misc(50.6438,9,-49.8377)
+pizza(1.05453,1,-0.334729)
+salad(14.0035,5,-13.0804)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110303104315.jpg
+actual class(es): cookies 
+to check: 46 points
+cookies(2.01678,2,0.259655)
+indian(32.0788,22,-23.3463)
+mexican(1.41421,1,1)
+misc(18.2827,13,-12.8553)
+salad(9.15503,8,4.45135)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110303164600.jpg
+actual class(es): salad italian 
+to check: 64 points
+cookies(18.7086,10,-15.8117)
+indian(9.5508,9,3.19652)
+italian(15.0401,15,-1.09753)
+mexican(2.82843,2,2)
+misc(23.1896,8,-21.7659)
+salad(21.339,18,-11.461)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110304130539.jpg
+actual class(es): pizza 
+to check: 88 points
+cookies(2.02148,2,-0.293886)
+indian(7.09004,7,1.12636)
+italian(12.1297,12,-1.76939)
+mexican(1.41421,1,1)
+misc(76.3461,15,-74.8581)
+pizza(32.1907,31,-8.67426)
+salad(29.862,17,-24.5507)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110304132909.jpg
+actual class(es): sandwiches cookies 
+to check: 37 points
+cookies(16.1265,15,5.92153)
+indian(8.19945,8,1.79748)
+mexican(8.48528,6,6)
+misc(4.2561,4,-1.45411)
+pizza(3.74543,3,2.24238)
+sandwiches(1.41421,1,1)
+max_class: cookies, max_class1: mexican
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110304140057.jpg
+actual class(es): salad italian 
+to check: 46 points
+cookies(5.85158,5,3.03991)
+indian(7.06226,7,-0.935697)
+italian(21.2451,20,7.16614)
+salad(14.4349,14,3.51664)
+max_class: italian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110304141408.jpg
+actual class(es): salad italian 
+to check: 59 points
+cookies(3.17616,3,1.04306)
+indian(3.08602,3,0.723542)
+italian(5.0874,5,0.938952)
+misc(57.4125,28,-50.1218)
+pizza(9.22309,8,4.58969)
+salad(12.1426,12,-1.85551)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110304180255.jpg
+actual class(es): salad indian 
+to check: 32 points
+cookies(2.05172,2,0.457777)
+indian(16.472,16,-3.91492)
+italian(10.191,9,4.78091)
+mexican(2.82843,2,2)
+misc(1.04532,1,-0.30445)
+salad(2,2,-0.00208327)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110304190305.jpg
+actual class(es): indian italian 
+to check: 73 points
+cookies(10.8422,10,4.1896)
+indian(28.4098,25,13.495)
+italian(31.0378,31,1.53182)
+mexican(5.65685,4,4)
+misc(1.02696,1,-0.233768)
+pizza(1.1542,1,0.576341)
+salad(1.18942,1,0.64398)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110304200213.jpg
+actual class(es): italian 
+to check: 57 points
+cookies(2.01196,2,0.21905)
+indian(17.717,17,4.98903)
+italian(30.1437,30,-2.94001)
+pizza(1.18593,1,0.637518)
+salad(8.98315,7,-5.63)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110305134113.jpg
+actual class(es): wraps 
+to check: 28 points
+cookies(1.39074,1,0.966513)
+indian(11.4847,10,5.64791)
+italian(14.2213,13,5.76576)
+mexican(2.82843,2,2)
+pizza(2.44916,2,1.41364)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110305144155.jpg
+actual class(es): misc 
+to check: 51 points
+cookies(9.94593,9,4.23338)
+indian(27.4991,23,15.0732)
+italian(6.38085,6,2.17145)
+misc(2.01459,2,-0.241978)
+pizza(5.19605,4,3.31646)
+salad(7.09779,7,1.17416)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110305174316.jpg
+actual class(es): pizza 
+to check: 56 points
+cookies(5.09582,5,-0.983561)
+indian(3.05898,3,-0.597818)
+italian(1.16625,1,0.600118)
+misc(9.73151,9,-3.70165)
+pizza(28.4823,28,-5.21937)
+salad(10.0927,10,-1.36511)
+max_class: pizza, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110306104842.jpg
+actual class(es): cookies 
+to check: 53 points
+cookies(37.8464,11,-36.2125)
+indian(31.3525,26,-17.5208)
+misc(50.6438,9,-49.8377)
+pizza(1.05453,1,-0.334729)
+salad(14.0035,5,-13.0804)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110306104843.jpg
+actual class(es): cookies 
+to check: 46 points
+cookies(2.01678,2,0.259655)
+indian(32.0788,22,-23.3463)
+mexican(1.41421,1,1)
+misc(18.2827,13,-12.8553)
+salad(9.15503,8,4.45135)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110306164945.jpg
+actual class(es): 
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307132342.jpg
+actual class(es): pizza 
+to check: 88 points
+cookies(2.02148,2,-0.293886)
+indian(7.09004,7,1.12636)
+italian(12.1297,12,-1.76939)
+mexican(1.41421,1,1)
+misc(76.3461,15,-74.8581)
+pizza(32.1907,31,-8.67426)
+salad(29.862,17,-24.5507)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307140136.jpg
+actual class(es): sandwiches 
+to check: 37 points
+cookies(10.7263,9,5.83552)
+indian(9.30795,9,-2.37442)
+italian(1.20095,1,0.665037)
+misc(24.3398,15,-19.1683)
+salad(2.64363,2,1.72881)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307142356.jpg
+actual class(es): salad italian 
+to check: 59 points
+cookies(3.17616,3,1.04306)
+indian(3.08602,3,0.723542)
+italian(5.0874,5,0.938952)
+misc(57.4125,28,-50.1218)
+pizza(9.22309,8,4.58969)
+salad(12.1426,12,-1.85551)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307142356_1.jpg
+actual class(es): salad italian 
+to check: 46 points
+cookies(5.85158,5,3.03991)
+indian(7.06226,7,-0.935697)
+italian(21.2451,20,7.16614)
+salad(14.4349,14,3.51664)
+max_class: italian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307182454.jpg
+actual class(es): salad indian 
+to check: 32 points
+cookies(2.05172,2,0.457777)
+indian(16.472,16,-3.91492)
+italian(10.191,9,4.78091)
+mexican(2.82843,2,2)
+misc(1.04532,1,-0.30445)
+salad(2,2,-0.00208327)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307182526.jpg
+actual class(es): indian 
+to check: 34 points
+cookies(1.15916,1,0.586228)
+italian(16.3334,14,-8.41312)
+misc(23.6917,15,-18.3384)
+salad(8.32154,1,-8.26124)
+max_class: misc, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307192510.jpg
+actual class(es): indian italian 
+to check: 73 points
+cookies(10.8422,10,4.1896)
+indian(28.4098,25,13.495)
+italian(31.0378,31,1.53182)
+mexican(5.65685,4,4)
+misc(1.02696,1,-0.233768)
+pizza(1.1542,1,0.576341)
+salad(1.18942,1,0.64398)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307212226.jpg
+actual class(es): indian italian 
+to check: 73 points
+cookies(10.8422,10,4.1896)
+indian(28.4098,25,13.495)
+italian(31.0378,31,1.53182)
+mexican(5.65685,4,4)
+misc(1.02696,1,-0.233768)
+pizza(1.1542,1,0.576341)
+salad(1.18942,1,0.64398)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110307212552.jpg
+actual class(es): indian italian 
+to check: 73 points
+cookies(10.8422,10,4.1896)
+indian(28.4098,25,13.495)
+italian(31.0378,31,1.53182)
+mexican(5.65685,4,4)
+misc(1.02696,1,-0.233768)
+pizza(1.1542,1,0.576341)
+salad(1.18942,1,0.64398)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110308112736.jpg
+actual class(es): salad cookies 
+to check: 50 points
+cookies(14.0468,14,-1.14543)
+indian(7.0262,7,0.606157)
+italian(6.9608,6,3.52884)
+salad(36.9251,13,-34.5611)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110308125754.jpg
+actual class(es): salad 
+to check: 51 points
+cookies(23.2588,22,-7.54799)
+indian(8.97546,4,-8.03486)
+italian(3.5581,3,1.91313)
+salad(61.8039,15,-59.956)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110308151315.jpg
+actual class(es): italian wraps 
+to check: 48 points
+cookies(16.5573,15,7.01028)
+indian(5.96586,5,-3.25446)
+italian(13.5559,13,3.84223)
+mexican(1.41421,1,1)
+misc(3.39002,3,-1.57869)
+pizza(8.49378,8,2.85382)
+salad(9.45979,3,-8.97149)
+max_class: cookies, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110308190448.jpg
+actual class(es): pizza 
+to check: 55 points
+cookies(1.0373,1,0.275665)
+indian(8.09229,8,-1.21866)
+italian(3.0874,3,-0.72939)
+misc(24.0998,8,-22.7332)
+pizza(34.7091,31,-15.6116)
+salad(4.01392,4,-0.334016)
+max_class: pizza, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110309131409.jpg
+actual class(es): sandwiches wraps 
+to check: 48 points
+cookies(4.59236,4,2.25605)
+indian(7.99757,7,-3.86796)
+italian(9.27166,9,2.22792)
+mexican(15.5563,11,11)
+misc(5.07457,5,-0.86676)
+pizza(1.29396,1,0.821177)
+salad(7.35719,7,-2.26457)
+max_class: mexican, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110309144443.jpg
+actual class(es): salad italian 
+to check: 53 points
+cookies(15.0284,15,0.923478)
+indian(2.50987,2,1.51639)
+italian(24.3994,24,-4.39666)
+misc(1.02322,1,-0.216754)
+pizza(9.33827,9,2.49065)
+salad(2.04651,2,-0.433833)
+max_class: italian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110309184634.jpg
+actual class(es): indian 
+to check: 51 points
+cookies(3.21716,3,1.16195)
+indian(35.3691,33,-12.7268)
+mexican(2.82843,2,2)
+misc(15.5393,11,-10.9759)
+pizza(1.18775,1,0.640892)
+salad(2.72364,1,-2.53342)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110310114351.jpg
+actual class(es): cookies 
+to check: 62 points
+cookies(15.1794,15,2.32655)
+indian(11.1766,11,1.97911)
+italian(11.0984,11,-1.47442)
+mexican(21.2132,15,15)
+misc(1.00028,1,-0.0238478)
+pizza(2.36073,2,1.25421)
+salad(7.83628,6,5.04056)
+sandwiches(1.41421,1,1)
+max_class: mexican, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110310162744.jpg
+actual class(es): fruit_veggie cookies 
+to check: 57 points
+cookies(16.8853,13,10.7757)
+indian(6.82582,6,3.25452)
+italian(10.2353,10,2.18211)
+mexican(1.41421,1,1)
+misc(17.4754,15,-8.96605)
+pizza(7.41774,6,4.36152)
+salad(6.00309,6,-0.192447)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110310191735.jpg
+actual class(es): sandwiches salad 
+to check: 56 points
+cookies(17.8904,16,8.00407)
+indian(15.2951,14,6.1596)
+italian(13.1183,13,-1.75751)
+mexican(1.41421,1,1)
+misc(4.37234,4,-1.7656)
+salad(8.29151,8,2.17926)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110311115316.jpg
+actual class(es): cookies 
+to check: 35 points
+indian(4.4198,4,1.88005)
+misc(72.0717,30,-65.5311)
+salad(10.5474,1,-10.4999)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110311121147.jpg
+actual class(es): fruit_veggie cookies 
+to check: 38 points
+cookies(8.87534,8,3.84339)
+indian(12.6871,12,4.11853)
+mexican(4.24264,3,3)
+misc(4.6815,3,-3.59395)
+pizza(8.67543,8,-3.35605)
+salad(3.30573,3,1.38847)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110311191645.jpg
+actual class(es): misc 
+to check: 44 points
+cookies(8.00581,8,-0.304995)
+indian(31.9912,29,-13.507)
+misc(4.44051,3,-3.27385)
+salad(3.07394,3,0.670159)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110314112416.jpg
+actual class(es): pizza 
+to check: 69 points
+cookies(14.381,14,3.28816)
+indian(17.0003,17,-0.10465)
+italian(14.0732,14,-1.43321)
+misc(1.08242,1,-0.414295)
+pizza(12.487,6,-10.951)
+salad(19.1265,17,-8.76498)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110314124732.jpg
+actual class(es): pizza 
+to check: 66 points
+cookies(3.10361,3,0.79524)
+fruit_veggie(1.41421,1,1)
+indian(23.1503,23,-2.63376)
+italian(5.49727,5,2.28472)
+mexican(1.41421,1,1)
+misc(3.17955,3,-1.05334)
+pizza(13.0021,13,0.232759)
+salad(17.4337,16,-6.9234)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110314140324.jpg
+actual class(es): sandwiches salad 
+to check: 50 points
+cookies(8.11449,8,-1.35829)
+indian(4.31762,4,1.62539)
+italian(1.22184,1,0.70206)
+misc(20.7452,14,-15.3089)
+pizza(18.6645,17,7.70488)
+salad(6.51994,6,2.5514)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110314180430.jpg
+actual class(es): cookies 
+to check: 49 points
+cookies(3.35721,3,1.50693)
+indian(9.16932,8,4.48068)
+italian(9.07223,9,1.1425)
+mexican(5.65685,4,4)
+pizza(23.0092,23,-0.648922)
+salad(15.6514,2,-15.5231)
+max_class: pizza, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110315135536.jpg
+actual class(es): sandwiches wraps 
+to check: 45 points
+cookies(11.3984,10,5.47021)
+indian(13.9988,13,5.1929)
+misc(9.69467,6,-7.6149)
+pizza(3.24318,3,1.23216)
+salad(13.0308,12,-5.07963)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110316145834.jpg
+actual class(es): fruit_veggie 
+to check: 54 points
+cookies(3.81937,2,-3.25386)
+indian(29.9488,18,-23.936)
+italian(8.49234,8,2.84954)
+mexican(1.41421,1,1)
+misc(2.07351,2,-0.547231)
+pizza(2.95426,2,-2.17432)
+salad(59.4141,18,-56.6218)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110316211700.jpg
+actual class(es): misc 
+to check: 62 points
+cookies(7.0743,7,-1.02263)
+indian(18.4976,18,-4.26153)
+misc(51.3718,24,-45.421)
+pizza(9.25165,9,-2.14311)
+salad(4.14272,3,-2.85694)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110316211742.jpg
+actual class(es): pizza 
+to check: 57 points
+cookies(5.27639,5,1.6853)
+indian(11.5714,11,-3.59121)
+italian(10.5677,10,3.41716)
+misc(17.8976,8,-16.0101)
+pizza(16.3613,16,-3.41947)
+salad(10.7672,7,-8.18118)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110316212206.jpg
+actual class(es): indian 
+to check: 36 points
+cookies(26.7354,7,-25.8027)
+indian(6.57972,6,-2.7005)
+italian(1.20081,1,0.664788)
+mexican(2.82843,2,2)
+misc(5.99153,5,-3.30128)
+salad(47.0924,14,-44.9633)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110317015913.jpg
+actual class(es): italian 
+to check: 53 points
+cookies(6.19342,3,-5.41835)
+indian(21.162,18,-11.1278)
+italian(12.2031,12,2.21713)
+misc(17.3219,14,-10.2004)
+pizza(4.75588,4,2.57263)
+salad(2.47617,2,1.45993)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110317015915.jpg
+actual class(es): italian 
+to check: 53 points
+cookies(1.12714,1,0.520032)
+indian(22.8835,19,-12.7536)
+italian(9.59122,9,3.31534)
+misc(16.9946,15,-7.98854)
+pizza(7.02304,6,3.65008)
+salad(7.91137,3,-7.32051)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110317020300.jpg
+actual class(es): italian 
+to check: 44 points
+cookies(5.03661,5,-0.606179)
+indian(19.3609,13,-14.3472)
+italian(9.39643,9,2.70052)
+misc(13.7936,12,-6.80163)
+pizza(2.10696,2,0.662785)
+salad(3.27268,3,1.30783)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110317140140.jpg
+actual class(es): wraps 
+to check: 34 points
+cookies(37.5735,8,-36.712)
+indian(7.069,7,-0.985267)
+italian(7.60014,7,2.96008)
+misc(6.71333,5,-4.47983)
+salad(48.5993,5,-48.3414)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110317143923.jpg
+actual class(es): misc 
+to check: 55 points
+cookies(10.2748,10,2.3606)
+indian(26.8401,25,-9.76679)
+italian(7.14799,7,1.447)
+misc(6.51296,6,-2.53351)
+salad(12.2133,5,-11.1429)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110317221334.jpg
+actual class(es): misc 
+to check: 39 points
+cookies(7.74864,7,-3.32287)
+indian(27.5004,27,5.22232)
+italian(1.05143,1,0.324802)
+pizza(2.53603,2,1.55932)
+salad(3.33937,2,-2.67421)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110318154134.jpg
+actual class(es): italian 
+to check: 56 points
+cookies(1.04491,1,0.303061)
+indian(24.2811,24,3.68401)
+italian(14.5363,14,3.91209)
+mexican(4.24264,3,3)
+misc(9.99455,8,-5.99092)
+salad(7.23314,6,4.03959)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110318200954.jpg
+actual class(es): italian salad 
+to check: 57 points
+cookies(8.50701,8,2.89297)
+indian(16.2272,15,6.19044)
+italian(16.0488,16,1.25095)
+misc(2.00715,2,-0.16924)
+pizza(2.10718,2,0.663488)
+salad(14.7813,14,4.74209)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110319151801.jpg
+actual class(es): italian salad cookies 
+to check: 54 points
+cookies(19.2528,19,3.10941)
+indian(6.39384,6,2.20935)
+italian(7.44347,7,-2.53086)
+pizza(12.7846,11,-6.51507)
+salad(11.9935,11,4.77952)
+max_class: cookies, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110319171841.jpg
+actual class(es): misc 
+to check: 54 points
+cookies(8.12513,8,1.42048)
+indian(5.65368,5,2.63896)
+italian(6.09773,5,3.49032)
+misc(16.6364,16,-4.55738)
+pizza(16.7325,14,9.16385)
+salad(6.08205,6,0.995641)
+max_class: pizza, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110323151650.jpg
+actual class(es): fruit_veggie wraps cookies 
+to check: 55 points
+cookies(18.9092,17,8.28006)
+indian(10.3636,10,-2.72107)
+italian(10.0033,10,0.258446)
+mexican(1.41421,1,1)
+misc(7.57788,7,-2.90245)
+pizza(1.29766,1,0.826995)
+salad(8.00005,8,0.0270169)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110323193644.jpg
+actual class(es): salad 
+to check: 38 points
+cookies(2.00221,2,-0.0940271)
+indian(20.0479,20,-1.38564)
+italian(6.04874,5,-3.40401)
+misc(6.85874,6,-3.32301)
+salad(5.02208,5,0.4704)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110325101558.jpg
+actual class(es): misc 
+to check: 33 points
+cookies(33.4539,5,-33.0782)
+salad(55.4117,10,-54.5019)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110329151024.jpg
+actual class(es): fruit_veggie 
+to check: 57 points
+cookies(13.0229,13,0.772713)
+indian(9.08021,9,-1.20424)
+italian(2.18909,2,0.890001)
+mexican(1.41421,1,1)
+misc(30.4912,8,-29.423)
+pizza(2.00748,2,-0.173137)
+salad(21.0614,21,-1.60759)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110329155324.jpg
+actual class(es): italian 
+to check: 56 points
+indian(20.2311,19,6.94972)
+italian(34.4764,34,-5.71135)
+misc(2.01124,2,-0.212363)
+pizza(1.26561,1,0.775737)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110330154002.jpg
+actual class(es): salad 
+to check: 33 points
+cookies(8.58661,7,4.97292)
+indian(7.22085,7,-1.77218)
+italian(3.01772,3,0.326572)
+mexican(1.41421,1,1)
+misc(10.5158,10,-3.25309)
+pizza(3.42559,3,-1.65368)
+salad(7.62532,2,-7.35836)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110330192432.jpg
+actual class(es): indian 
+to check: 48 points
+cookies(13.7841,8,-11.2251)
+indian(28.2324,20,-19.9266)
+italian(2.18419,2,-0.877898)
+mexican(1.41421,1,1)
+misc(11.8366,9,-7.688)
+pizza(6.01165,6,0.374158)
+salad(3.8562,2,-3.29701)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110331213447.jpg
+actual class(es): fruit_veggie 
+to check: 59 points
+cookies(10.285,9,4.97808)
+indian(11.0923,9,6.48377)
+mexican(1.41421,1,1)
+misc(11.5405,11,-3.49032)
+pizza(1.08461,1,0.419963)
+salad(35.4338,8,-34.5189)
+max_class: salad, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110331222116.jpg
+actual class(es): misc 
+to check: 50 points
+cookies(101.304,19,-99.5058)
+indian(6.86451,6,-3.33489)
+italian(1.59563,1,-1.24339)
+pizza(3.18804,3,-1.0787)
+salad(68.7544,14,-67.3139)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110401133131.jpg
+actual class(es): cookies 
+to check: 27 points
+cookies(44.0324,7,-43.4724)
+italian(8.41515,8,-2.61049)
+misc(2.03059,2,-0.351159)
+pizza(4.47444,4,2.00515)
+salad(18.5574,3,-18.3133)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110401162742.jpg
+actual class(es): misc 
+to check: 47 points
+cookies(12.4273,12,-3.23091)
+indian(11.0388,10,4.67494)
+italian(9.3776,9,-2.63428)
+mexican(1.41421,1,1)
+misc(4.93557,3,-3.91916)
+pizza(12.2426,11,5.37404)
+salad(1.1464,1,0.560557)
+max_class: cookies, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110401184238.jpg
+actual class(es): italian cookies 
+to check: 41 points
+cookies(3.42992,2,-2.78646)
+indian(6.18544,6,-1.50322)
+italian(31.9947,26,-18.6457)
+misc(18.1903,5,-17.4896)
+pizza(1.09525,1,0.446744)
+salad(1.22873,1,0.713987)
+max_class: italian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110401212726.jpg
+actual class(es): indian 
+to check: 59 points
+cookies(3.05134,3,0.557401)
+indian(18.3598,18,3.6169)
+italian(36.5267,28,-23.4563)
+mexican(1.41421,1,1)
+misc(4.06924,4,-0.747489)
+pizza(1.10967,1,0.480997)
+salad(4.0156,4,0.353627)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110401213153.jpg
+actual class(es): indian 
+to check: 60 points
+cookies(3.12069,3,0.859471)
+indian(14.4683,14,3.65125)
+italian(41.1092,34,-23.1077)
+misc(4.08247,4,-0.816423)
+pizza(4.02391,4,0.437984)
+salad(1.00042,1,-0.0290965)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110405153615.jpg
+actual class(es): misc 
+to check: 50 points
+indian(15.3739,13,8.20716)
+italian(2.04575,2,0.430243)
+mexican(5.65685,4,4)
+misc(14.0821,11,-8.7924)
+pizza(5.69522,5,2.72682)
+salad(13.0417,13,-1.04266)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110405164226.jpg
+actual class(es): misc 
+to check: 54 points
+cookies(2.47537,2,1.45858)
+indian(21.1386,21,2.41675)
+italian(4.36019,4,1.7353)
+mexican(2.82843,2,2)
+misc(8.58625,7,-4.9723)
+pizza(9.06056,9,1.04581)
+salad(11.4619,9,-7.09762)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110406141352.jpg
+actual class(es): italian 
+to check: 43 points
+cookies(7.0619,7,0.933004)
+indian(11.1339,11,-1.72141)
+italian(9.21613,9,-1.9842)
+misc(17.5385,13,-11.7728)
+pizza(1.25719,1,0.761919)
+salad(8.32154,1,-8.26124)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110406195333.jpg
+actual class(es): misc 
+to check: 45 points
+cookies(8.00522,8,0.289162)
+indian(16.4202,15,6.68006)
+italian(5.00032,4,3.00053)
+misc(8.02823,7,-3.93095)
+pizza(2.06291,2,0.505574)
+salad(9.83578,9,3.96769)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110406200941.jpg
+actual class(es): sandwiches 
+to check: 47 points
+cookies(18.3347,17,6.86736)
+indian(12.0585,12,-1.18663)
+mexican(7.07107,5,5)
+misc(7.18427,7,-1.61671)
+pizza(2.59261,2,1.64974)
+salad(3.47842,3,1.76051)
+sandwiches(1.41421,1,1)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110407162043.jpg
+actual class(es): misc 
+to check: 37 points
+misc(332.068,30,-330.71)
+salad(34.541,6,-34.0159)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110411132147.jpg
+actual class(es): sandwiches wraps 
+to check: 43 points
+cookies(5.04604,5,0.680068)
+indian(14.9406,10,-11.1005)
+mexican(4.24264,3,3)
+misc(13.3518,10,-8.84704)
+pizza(7.54739,6,-4.57855)
+salad(8.36413,7,4.57807)
+sandwiches(2.82843,2,2)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110411132433.jpg
+actual class(es): wraps 
+to check: 44 points
+cookies(7.04192,6,3.68627)
+indian(39.4636,20,-34.0202)
+italian(13.7303,12,6.67242)
+mexican(2.82843,2,2)
+misc(1.05208,1,-0.326927)
+salad(9.83643,3,-9.36778)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110411185814.jpg
+actual class(es): misc 
+to check: 59 points
+cookies(7.1312,7,1.36163)
+indian(16.5776,16,-4.33792)
+italian(14.2754,14,-2.79029)
+misc(35.0464,15,-31.6742)
+pizza(5.8926,5,3.11813)
+salad(2.16901,2,0.839419)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110412025349.jpg
+actual class(es): misc 
+to check: 21 points
+indian(1.09308,1,-0.441401)
+mexican(2.82843,2,2)
+misc(4.53514,3,-3.4011)
+pizza(5.12011,5,1.10252)
+salad(24.6466,5,-24.1341)
+max_class: salad, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110412133826.jpg
+actual class(es): italian salad fruit_veggie 
+to check: 57 points
+cookies(11.2365,9,6.72749)
+indian(6.9399,6,3.48743)
+italian(26.5594,26,5.42221)
+misc(4.55645,4,-2.18203)
+pizza(2.74818,2,1.8848)
+salad(10.9814,10,4.53765)
+max_class: italian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110412150619.jpg
+actual class(es): misc 
+to check: 65 points
+cookies(11.2894,11,2.53985)
+indian(33.6218,31,13.0164)
+italian(16.4254,15,6.69279)
+mexican(1.41421,1,1)
+misc(6.3943,6,-2.21068)
+pizza(1.13786,1,0.542877)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110413145603.jpg
+actual class(es): sandwiches 
+to check: 29 points
+cookies(46.6998,10,-45.6165)
+indian(6.08963,5,3.47615)
+misc(6.26131,4,-4.81705)
+pizza(8.82946,7,5.3814)
+max_class: cookies, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110414132208.jpg
+actual class(es): misc 
+to check: 55 points
+cookies(4.01833,4,0.383412)
+indian(31.8023,30,-10.5541)
+mexican(4.24264,3,3)
+misc(7.45871,7,-2.57535)
+pizza(5.91782,5,3.16552)
+salad(10.6154,6,-8.75714)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110414143007.jpg
+actual class(es): sandwiches 
+to check: 48 points
+cookies(15.3603,13,8.18163)
+indian(11.9465,10,6.53591)
+italian(4.73021,4,2.52485)
+mexican(4.24264,3,3)
+misc(2.08947,2,-0.604899)
+pizza(11.4688,11,3.24557)
+salad(17.6874,5,-16.966)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110414143852.jpg
+actual class(es): sandwiches 
+to check: 60 points
+cookies(23.0123,20,11.3827)
+indian(12.3984,10,7.32945)
+italian(2.30235,2,1.14053)
+mexican(9.8995,7,7)
+pizza(14.582,14,4.07857)
+salad(18.756,7,-17.4008)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110415191425.jpg
+actual class(es): salad fruit_veggie 
+to check: 63 points
+cookies(5.27335,5,1.67578)
+indian(23.4068,23,4.34501)
+italian(1.20547,1,0.673161)
+mexican(1.41421,1,1)
+misc(12.4846,9,-8.65246)
+pizza(15.688,14,7.07904)
+salad(11.4387,10,-5.55373)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110418143738.jpg
+actual class(es): misc 
+to check: 50 points
+cookies(21.7584,10,-19.3243)
+indian(21.0815,7,-19.8855)
+italian(1.13219,1,0.530901)
+salad(37.8248,15,-34.7234)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110419153548.jpg
+actual class(es): italian 
+to check: 49 points
+cookies(1.03092,1,0.250574)
+indian(5.59813,5,2.51774)
+italian(29.3485,29,4.50952)
+mexican(2.82843,2,2)
+misc(3.00274,3,-0.128244)
+pizza(2.63283,2,1.71225)
+salad(19.3624,6,-18.4093)
+max_class: italian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110420152838.jpg
+actual class(es): italian 
+to check: 61 points
+cookies(16.1529,15,5.99314)
+indian(37.4337,37,5.68188)
+mexican(2.82843,2,2)
+misc(1.02041,1,-0.203087)
+pizza(4.03439,4,0.525626)
+salad(2.37859,2,-1.28751)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110420164703.jpg
+actual class(es): italian fruit_veggie 
+to check: 66 points
+cookies(14.0808,12,7.3668)
+indian(31.0104,31,-0.803319)
+italian(8.06229,7,4.00007)
+mexican(7.07107,5,5)
+misc(4.38459,4,-1.79573)
+pizza(4.86575,4,2.77047)
+salad(3.62474,3,2.03439)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110423161349.jpg
+actual class(es): cookies 
+to check: 39 points
+cookies(14.1589,14,-2.11535)
+indian(9.92039,9,-4.17301)
+italian(1.00954,1,0.138475)
+misc(5.42282,5,-2.09927)
+salad(23.4949,8,-22.091)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110424170359.jpg
+actual class(es): misc 
+to check: 17 points
+cookies(1.12019,1,0.504808)
+indian(7.4131,5,-5.47303)
+misc(15.9338,9,-13.1486)
+salad(2.29562,2,1.12688)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110425124752.jpg
+actual class(es): cookies fruit_veggie 
+to check: 48 points
+cookies(15.0283,15,-0.922556)
+indian(24.3967,24,4.38157)
+pizza(9.35568,8,4.85065)
+salad(6.42955,1,-6.35131)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110425140213.jpg
+actual class(es): cookies 
+to check: 55 points
+cookies(7.11493,7,-1.27369)
+indian(11.3544,10,5.378)
+italian(13.0301,11,6.98458)
+mexican(4.24264,3,3)
+misc(2.00759,2,-0.174413)
+pizza(17.1288,17,-2.0964)
+salad(5.62905,5,-2.58576)
+max_class: pizza, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110425154629.jpg
+actual class(es): salad sandwiches 
+to check: 53 points
+cookies(2.02323,2,-0.305723)
+indian(17.2206,15,8.45861)
+italian(5.62499,5,2.57691)
+mexican(1.41421,1,1)
+misc(8.39209,7,-4.62894)
+pizza(15.2051,13,7.88632)
+salad(10.6671,10,-3.71296)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110426145212.jpg
+actual class(es): cookies 
+to check: 47 points
+indian(19.0505,15,-11.7439)
+misc(85.2776,26,-81.2174)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110426171357.jpg
+actual class(es): fruit_veggie 
+to check: 54 points
+cookies(14.1317,14,-1.92491)
+indian(1.14794,1,0.563707)
+misc(2.31422,2,-1.16431)
+pizza(17.3545,17,3.4899)
+salad(24.2115,16,-18.1713)
+max_class: salad, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110427194632.jpg
+actual class(es): indian 
+to check: 38 points
+cookies(5.11897,5,1.09719)
+indian(24.3138,23,-7.88416)
+italian(4.50343,4,2.06903)
+salad(32.1865,5,-31.7958)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110502134010.jpg
+actual class(es): fruit_veggie 
+to check: 27 points
+cookies(8.60273,8,3.16337)
+indian(7.19053,7,1.64429)
+pizza(10.4725,10,3.11016)
+salad(8.47681,2,-8.23749)
+max_class: pizza, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110502175537.jpg
+actual class(es): fruit_veggie cookies 
+to check: 44 points
+cookies(6.63354,6,2.82911)
+indian(18.1565,17,6.37629)
+italian(3.35142,3,1.494)
+mexican(4.24264,3,3)
+misc(7.1995,5,-5.18003)
+pizza(5.54075,5,2.38745)
+salad(5.0148,5,0.38497)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110502232401.jpg
+actual class(es): pizza 
+to check: 62 points
+cookies(4.30707,4,-1.59714)
+indian(8.00313,8,0.22386)
+italian(13.0657,13,1.30822)
+misc(7.48823,6,-4.48035)
+pizza(30.3077,30,-4.30806)
+salad(1.74146,1,-1.42573)
+max_class: pizza, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110503144202.jpg
+actual class(es): pizza salad 
+to check: 61 points
+cookies(4.001,4,0.0896554)
+indian(15.8066,14,7.33808)
+italian(19.2851,19,3.30396)
+mexican(5.65685,4,4)
+misc(13.7679,12,-6.74938)
+pizza(5.30023,5,1.75854)
+salad(3.2788,3,1.32308)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110503144514.jpg
+actual class(es): pizza salad 
+to check: 68 points
+cookies(2.00103,2,0.0642097)
+indian(10.4405,9,-5.29183)
+italian(3.47269,3,1.74917)
+mexican(1.41421,1,1)
+misc(14.7834,8,-12.4318)
+pizza(33.123,33,2.8514)
+salad(12.5179,12,3.56333)
+max_class: pizza, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110503154035.jpg
+actual class(es): indian 
+to check: 48 points
+cookies(6.68192,6,2.94075)
+indian(10.8435,10,4.19315)
+italian(20.1022,19,6.565)
+mexican(1.41421,1,1)
+misc(3.30845,3,-1.39494)
+pizza(8.16793,7,4.20893)
+salad(2.01233,2,-0.222387)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110504121439.jpg
+actual class(es): fruit_veggie cookies 
+to check: 51 points
+cookies(16.2361,16,2.75908)
+indian(30.8578,29,10.5453)
+italian(1.19659,1,0.657136)
+misc(2.14403,2,-0.772556)
+pizza(2.1241,2,0.715408)
+salad(1.21382,1,0.688018)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110505135159.jpg
+actual class(es): misc 
+to check: 64 points
+cookies(17.5027,17,4.16453)
+indian(19.9274,19,6.00843)
+italian(3.29714,3,1.36788)
+misc(3.14944,3,-0.958627)
+salad(22.2886,22,3.57539)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110505152538.jpg
+actual class(es): sandwiches 
+to check: 32 points
+cookies(17.1212,17,-2.03391)
+indian(1.04895,1,0.316695)
+italian(2.21278,2,0.946771)
+mexican(5.65685,4,4)
+misc(5.00561,3,-4.007)
+pizza(1.24792,1,0.746531)
+salad(3.4648,2,-2.82928)
+sandwiches(1.41421,1,1)
+max_class: cookies, max_class1: mexican
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110505202902.jpg
+actual class(es): fruit_veggie cookies 
+to check: 44 points
+cookies(13.1959,13,2.26534)
+indian(12.5871,12,3.79942)
+italian(7.20865,6,3.99558)
+misc(3.9272,3,-2.53434)
+pizza(3.12795,3,0.885474)
+salad(7.73646,7,3.29436)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110506134626.jpg
+actual class(es): italian 
+to check: 51 points
+cookies(54.5895,14,-52.7637)
+indian(16.4087,15,-6.65183)
+mexican(1.41421,1,1)
+pizza(3.07046,3,-0.653984)
+salad(37.5162,9,-36.4206)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110506151538.jpg
+actual class(es): italian 
+to check: 29 points
+cookies(5.45423,5,2.17913)
+indian(7.01128,7,0.397496)
+italian(5.10637,4,3.17412)
+misc(9.39296,9,-2.68845)
+sandwiches(4.24264,3,3)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110506151759.jpg
+actual class(es): italian 
+to check: 45 points
+cookies(12.3774,11,5.67452)
+indian(11.6548,11,-3.85162)
+italian(10.0133,10,0.515582)
+misc(10.3262,9,-5.06269)
+pizza(2.03224,2,0.360534)
+salad(1.00165,1,0.0574811)
+sandwiches(1.41421,1,1)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110506172009.jpg
+actual class(es): italian 
+to check: 51 points
+cookies(14.4967,13,6.41518)
+indian(16.6252,15,7.16913)
+italian(5.05702,5,0.75724)
+mexican(2.82843,2,2)
+misc(11.6394,11,-3.80479)
+pizza(2.42534,2,1.37195)
+salad(2.1736,2,0.851198)
+sandwiches(1.41421,1,1)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110506183814.jpg
+actual class(es): misc 
+to check: 60 points
+cookies(4.55473,4,-2.17843)
+indian(23.0552,23,-1.59388)
+italian(6.03964,6,0.690842)
+mexican(4.24264,3,3)
+misc(8.26154,8,-2.06228)
+pizza(1.0024,1,-0.0692562)
+salad(32.5171,14,-29.3489)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110506191258.jpg
+actual class(es): misc 
+to check: 29 points
+cookies(13.111,9,-9.53404)
+indian(3.33572,3,1.45844)
+misc(16.9346,15,-7.86007)
+pizza(2.46612,2,1.44283)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110507220447.jpg
+actual class(es): fruit_veggie 
+to check: 33 points
+cookies(3.05844,3,-0.595032)
+indian(20.9992,19,-8.94248)
+misc(6.33139,6,-2.0215)
+salad(16.7216,3,-16.4503)
+sandwiches(2.82843,2,2)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110509124451.jpg
+actual class(es): fruit_veggie cookies 
+to check: 63 points
+cookies(23.7825,23,6.05044)
+indian(22.5892,21,8.32306)
+italian(2.01223,2,0.221529)
+misc(13.5122,12,-6.21114)
+pizza(5.44651,5,2.15974)
+max_class: cookies, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110509180146.jpg
+actual class(es): fruit_veggie 
+to check: 47 points
+cookies(1.37307,1,0.940922)
+indian(12.013,12,0.558989)
+italian(3.28594,3,1.34067)
+misc(2.17342,2,-0.850725)
+pizza(15.0013,15,0.19367)
+salad(15.0824,14,5.61052)
+max_class: salad, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110509191550.jpg
+actual class(es): italian cookies 
+to check: 43 points
+cookies(5.37294,5,1.96685)
+indian(14.9751,14,5.31533)
+italian(8.46576,8,2.76933)
+mexican(2.82843,2,2)
+misc(8.67555,8,-3.35637)
+pizza(4.59364,4,2.25866)
+salad(3.32857,2,-2.66071)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110509203238.jpg
+actual class(es): pizza 
+to check: 56 points
+cookies(10.1448,10,1.70777)
+indian(16.0161,16,0.717195)
+italian(16.0224,16,-0.847339)
+misc(1.63334,1,-1.29143)
+pizza(12.1908,12,2.14819)
+salad(1.1514,1,-0.570728)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110509220906.jpg
+actual class(es): pizza 
+to check: 52 points
+cookies(13.1232,8,-10.4028)
+indian(7.07919,7,-1.05592)
+italian(2.0368,2,0.385421)
+misc(2.50219,2,-1.50365)
+pizza(22.0626,22,1.66118)
+salad(11.0335,11,0.858651)
+max_class: pizza, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110509230842.jpg
+actual class(es): misc 
+to check: 49 points
+cookies(3.44109,3,-1.68555)
+italian(3.02432,3,0.382781)
+misc(103.528,42,-94.6256)
+pizza(1.03612,1,-0.271173)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110509231634.jpg
+actual class(es): misc 
+image not 640x480, skipping
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110509234550.jpg
+actual class(es): pizza 
+to check: 41 points
+cookies(8.89713,8,3.89344)
+indian(10.3974,10,-2.84693)
+misc(12.3983,4,-11.7353)
+pizza(15.4281,15,3.60903)
+salad(8.6763,1,-8.61848)
+max_class: pizza, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110510150450.jpg
+actual class(es): salad 
+to check: 63 points
+cookies(10.333,8,-6.53992)
+indian(22.2565,21,7.37225)
+italian(11.1337,10,4.89479)
+misc(22.1016,11,-19.1698)
+pizza(2.61505,2,1.68477)
+salad(10.1704,10,-1.85405)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110510161245.jpg
+actual class(es): sandwiches salad pizza 
+to check: 44 points
+cookies(3.08078,3,0.700843)
+indian(6.83889,6,3.28183)
+italian(5.44862,5,2.16506)
+misc(1.00274,1,-0.0740378)
+pizza(5.61803,5,2.56168)
+salad(24.2186,24,3.2463)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110511011008.jpg
+actual class(es): misc 
+to check: 57 points
+indian(21.3211,19,9.67411)
+italian(21.2404,18,11.2763)
+mexican(1.41421,1,1)
+misc(7.05445,7,-0.874828)
+pizza(8.58598,7,4.97182)
+salad(5.89685,5,3.12615)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110511013632.jpg
+actual class(es): indian 
+to check: 42 points
+indian(8.00964,8,-0.392937)
+italian(10.5459,10,3.34902)
+misc(13.5918,11,-7.98357)
+pizza(8.29944,8,-2.20924)
+salad(1.01774,1,0.189186)
+max_class: misc, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110511181337.jpg
+actual class(es): italian 
+to check: 37 points
+cookies(6.84629,3,-6.154)
+italian(5.26752,4,-3.42735)
+misc(10.6775,9,-5.7454)
+salad(40.8446,14,-38.3703)
+max_class: salad, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110511233105.jpg
+actual class(es): misc 
+to check: 57 points
+cookies(2.45392,2,1.42187)
+indian(21.2398,20,7.15035)
+italian(26.642,26,5.81367)
+misc(8.14872,7,-4.17154)
+salad(2.5203,2,1.5336)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110513155818.jpg
+actual class(es): salad 
+to check: 53 points
+cookies(4.22807,4,1.36987)
+indian(27.6594,26,-9.43629)
+italian(13.9262,13,4.99392)
+misc(12.3046,6,-10.7426)
+salad(10.5078,4,-9.7167)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110516170642.jpg
+actual class(es): sandwiches 
+to check: 45 points
+cookies(9.2916,9,2.30952)
+indian(7.54648,7,2.81945)
+italian(6.97769,6,3.56204)
+misc(14.3338,13,-6.03807)
+salad(23.078,10,-20.7989)
+max_class: salad, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110516194501.jpg
+actual class(es): indian 
+to check: 49 points
+cookies(6.00519,6,-0.249692)
+indian(20.1746,20,2.64854)
+misc(36.6323,19,-31.3197)
+salad(5.27604,4,-3.44043)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110517074627.jpg
+actual class(es): misc 
+to check: 47 points
+cookies(5.54672,5,2.40128)
+indian(21.9377,20,-9.01457)
+misc(13.0752,6,-11.6173)
+salad(12.2231,12,-2.32459)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110517154609.jpg
+actual class(es): salad italian 
+to check: 68 points
+cookies(2.3034,2,1.14265)
+indian(12.7217,12,4.22405)
+italian(19.6774,19,5.11864)
+misc(24.6975,22,-11.2235)
+salad(14.3568,13,6.09245)
+max_class: misc, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110517195357.jpg
+actual class(es): fruit_veggie 
+to check: 57 points
+cookies(1.3376,1,0.888354)
+indian(22.8103,20,10.9687)
+italian(17.1054,16,6.04926)
+mexican(9.8995,7,7)
+misc(1.16813,1,-0.603753)
+pizza(9.77698,8,5.62045)
+salad(4.34802,4,1.7045)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110517200615.jpg
+actual class(es): fruit_veggie 
+to check: 59 points
+cookies(4.99572,4,2.99285)
+indian(25.7017,24,9.19658)
+italian(17.3295,17,3.36344)
+misc(16.565,8,-14.5051)
+pizza(2.40946,2,1.34369)
+salad(4.76986,4,2.59837)
+max_class: indian, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110518184336.jpg
+actual class(es): sandwiches 
+to check: 62 points
+cookies(44.0803,44,2.66021)
+indian(5.5678,5,2.44957)
+italian(2.26712,2,1.06763)
+misc(4.2657,4,-1.48194)
+pizza(7.05898,7,0.910639)
+max_class: cookies, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110518191632.jpg
+actual class(es): misc 
+to check: 36 points
+cookies(21.3356,21,3.76924)
+indian(7.73036,3,-7.1245)
+italian(1.41115,1,0.995663)
+misc(1.0006,1,-0.0345131)
+pizza(8.29444,5,-6.61798)
+salad(10.4049,2,-10.2108)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110518205157.jpg
+actual class(es): indian 
+to check: 32 points
+cookies(5.10455,5,1.02781)
+indian(19.8348,16,-11.7226)
+italian(10.2736,9,4.95452)
+salad(10.4049,2,-10.2108)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110518231908.jpg
+actual class(es): sandwiches 
+to check: 29 points
+cookies(5.09632,4,3.15793)
+indian(5.29799,5,1.75178)
+italian(17.6405,15,9.2838)
+misc(4.35893,4,-1.73212)
+salad(8.6763,1,-8.61848)
+max_class: italian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110519142705.jpg
+actual class(es): italian 
+to check: 57 points
+cookies(6.17371,6,1.45419)
+indian(9.12247,9,1.48981)
+italian(16.7552,16,4.9736)
+misc(39.8629,9,-38.8336)
+pizza(2.58663,2,-1.64032)
+salad(38.3329,15,-35.2762)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110519181106.jpg
+actual class(es): misc 
+to check: 43 points
+cookies(5.31418,5,-1.80015)
+indian(2.74147,2,-1.87501)
+misc(6.44547,3,-5.70474)
+salad(121.139,28,-117.859)
+max_class: salad, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110519181310.jpg
+actual class(es): misc 
+to check: 26 points
+cookies(1.08077,1,0.409952)
+indian(3.20099,1,-3.04078)
+mexican(1.41421,1,1)
+misc(62.9729,16,-60.9063)
+salad(16.7637,3,-16.493)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110520225112.jpg
+actual class(es): indian 
+to check: 54 points
+cookies(17.0354,17,1.09839)
+indian(21.0004,21,-0.12385)
+italian(2.10131,2,0.644595)
+misc(2.45616,2,-1.42574)
+pizza(12.5915,11,6.12753)
+salad(1.05015,1,0.320632)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110521183601.jpg
+actual class(es): pizza 
+to check: 76 points
+cookies(5.58303,5,2.48399)
+indian(16.0788,16,-1.59028)
+italian(38.9401,37,12.1381)
+misc(12.1229,10,-6.85311)
+pizza(8.59499,8,3.14228)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110523152839.jpg
+actual class(es): misc 
+to check: 56 points
+cookies(6.02467,6,0.544633)
+indian(28.7879,26,-12.3589)
+mexican(1.41421,1,1)
+misc(28.8817,20,-20.8363)
+salad(7.81138,3,-7.21233)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110523211025.jpg
+actual class(es): pizza 
+to check: 66 points
+cookies(9.79877,3,-9.32823)
+indian(17.9639,7,-16.544)
+italian(2.40551,2,-1.3366)
+misc(75.7559,16,-74.047)
+pizza(24.8454,22,-11.5453)
+salad(6.13904,6,-1.29915)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110524154457.jpg
+actual class(es): misc 
+to check: 46 points
+cookies(1.96679,1,-1.69359)
+indian(4.00979,4,0.279977)
+pizza(12.1408,4,-11.463)
+salad(143.629,30,-140.461)
+max_class: salad, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110524160707.jpg
+actual class(es): misc 
+to check: 44 points
+indian(15.5971,14,6.87534)
+italian(1.08215,1,0.413577)
+misc(22.6615,16,-16.0481)
+pizza(15.1083,13,7.69801)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110525161751.jpg
+actual class(es): italian salad 
+to check: 39 points
+cookies(12.7382,9,-9.01447)
+indian(1.10515,1,-0.470485)
+italian(20.0143,20,0.756327)
+misc(5.87306,5,-3.08105)
+salad(4.00365,4,-0.170945)
+max_class: italian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110526160335.jpg
+actual class(es): italian 
+to check: 54 points
+cookies(1.16412,1,0.595971)
+indian(13.024,13,0.790741)
+italian(29.1556,29,-3.00851)
+misc(2.01748,2,-0.265035)
+pizza(2.30654,2,1.14898)
+salad(32.704,4,-32.4585)
+max_class: salad, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110526164605.jpg
+actual class(es): italian sandwiches 
+to check: 51 points
+cookies(2.00749,2,0.173238)
+indian(16.3388,16,3.30982)
+italian(23.0003,23,-0.124767)
+mexican(1.41421,1,1)
+misc(5.67879,5,-2.69233)
+salad(3.72449,3,2.20722)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110526173526.jpg
+actual class(es): pizza 
+to check: 55 points
+cookies(1.11691,1,0.497482)
+indian(4.92746,4,2.87747)
+italian(17.339,16,-6.68137)
+misc(3.46893,3,-1.74169)
+pizza(18.0414,18,1.22113)
+salad(13.041,13,-1.03354)
+max_class: pizza, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110527151004.jpg
+actual class(es): misc 
+to check: 39 points
+cookies(2.53309,2,1.55453)
+indian(1.03965,1,0.284363)
+italian(15.328,15,3.15421)
+mexican(2.82843,2,2)
+misc(6.17157,6,-1.4451)
+pizza(1.29084,1,0.816254)
+salad(12.109,12,1.62135)
+max_class: italian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110527151359.jpg
+actual class(es): cookies italian 
+to check: 48 points
+cookies(9.71347,9,3.65396)
+indian(18.4834,18,-4.19944)
+italian(5.37647,5,1.97646)
+misc(81.4484,6,-81.2271)
+salad(9.3193,9,2.41854)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110527235738.jpg
+actual class(es): cookies 
+to check: 40 points
+cookies(13.3924,13,3.21802)
+indian(3.13512,2,-2.41433)
+mexican(1.41421,1,1)
+misc(26.5061,12,-23.6341)
+pizza(9.52227,8,5.16465)
+salad(1.26929,1,0.781733)
+max_class: misc, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110531131504.jpg
+actual class(es): sandwiches 
+to check: 42 points
+cookies(15.1652,8,-12.8834)
+indian(23.9012,23,6.50136)
+mexican(1.41421,1,1)
+misc(15.2116,6,-13.9783)
+pizza(2.1269,2,0.723675)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110531132941.jpg
+actual class(es): cookies 
+to check: 48 points
+cookies(4.43399,4,-1.91319)
+indian(15.7772,11,-11.3101)
+italian(5.21848,5,1.49415)
+misc(4.64171,4,-2.35487)
+salad(19.7095,14,-13.8731)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110531143700.jpg
+actual class(es): pizza 
+to check: 59 points
+cookies(4.00041,4,-0.0570506)
+indian(2.26597,2,-1.06519)
+italian(2.04025,2,0.403275)
+misc(94.3665,7,-94.1065)
+pizza(43.5679,30,-31.5937)
+salad(21.8584,5,-21.2788)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110601032934.jpg
+actual class(es): sandwiches 
+to check: 42 points
+cookies(15.1652,8,-12.8834)
+indian(23.9012,23,6.50136)
+mexican(1.41421,1,1)
+misc(15.2116,6,-13.9783)
+pizza(2.1269,2,0.723675)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110601034434.jpg
+actual class(es): cookies 
+to check: 48 points
+cookies(4.43399,4,-1.91319)
+indian(15.7772,11,-11.3101)
+italian(5.21848,5,1.49415)
+misc(4.64171,4,-2.35487)
+salad(19.7095,14,-13.8731)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110601044440.jpg
+actual class(es): pizza 
+to check: 59 points
+cookies(4.00041,4,-0.0570506)
+indian(2.26597,2,-1.06519)
+italian(2.04025,2,0.403275)
+misc(94.3665,7,-94.1065)
+pizza(43.5679,30,-31.5937)
+salad(21.8584,5,-21.2788)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110601221708.jpg
+actual class(es): misc 
+to check: 39 points
+cookies(9.60211,2,-9.39151)
+italian(9.48183,4,-8.5968)
+salad(187.869,20,-186.802)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110601222051.jpg
+actual class(es): salad italian 
+to check: 63 points
+cookies(5.00169,5,-0.129898)
+indian(26.4982,25,8.78366)
+italian(11.2462,11,2.34025)
+mexican(2.82843,2,2)
+misc(2.18733,2,-0.885668)
+pizza(9.03484,8,4.1986)
+salad(17.4167,9,-14.9112)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110602165554.jpg
+actual class(es): italian 
+to check: 67 points
+cookies(3.08943,3,0.737965)
+indian(1.07666,1,-0.399006)
+italian(50.4696,47,-18.3896)
+misc(39.8341,9,-38.804)
+pizza(2.23918,2,-1.00693)
+salad(3.03498,3,0.459491)
+max_class: italian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110602185549.jpg
+actual class(es): italian 
+to check: 37 points
+cookies(3.45993,3,1.72369)
+indian(7.00281,7,0.198306)
+italian(17.3388,17,3.41111)
+misc(8.38394,8,-2.50809)
+pizza(1.37939,1,0.950111)
+salad(1.32477,1,0.86892)
+max_class: italian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110602215949.jpg
+actual class(es): pizza 
+to check: 39 points
+cookies(6.92543,3,-6.24192)
+indian(11.0356,11,-0.885079)
+misc(37.5337,20,-31.7613)
+pizza(5.18145,5,1.3592)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110605191734.jpg
+actual class(es): sandwiches 
+to check: 42 points
+cookies(15.1652,8,-12.8834)
+indian(23.9012,23,6.50136)
+mexican(1.41421,1,1)
+misc(15.2116,6,-13.9783)
+pizza(2.1269,2,0.723675)
+max_class: indian, max_class1: misc
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110605193839.jpg
+actual class(es): cookies 
+to check: 48 points
+cookies(4.43399,4,-1.91319)
+indian(15.7772,11,-11.3101)
+italian(5.21848,5,1.49415)
+misc(4.64171,4,-2.35487)
+salad(19.7095,14,-13.8731)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110605203836.jpg
+actual class(es): pizza 
+to check: 59 points
+cookies(4.00041,4,-0.0570506)
+indian(2.26597,2,-1.06519)
+italian(2.04025,2,0.403275)
+misc(94.3665,7,-94.1065)
+pizza(43.5679,30,-31.5937)
+salad(21.8584,5,-21.2788)
+max_class: misc, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110606152428.jpg
+actual class(es): salad sandwiches 
+to check: 56 points
+cookies(5.40809,5,2.06092)
+indian(17.1429,17,2.20914)
+italian(6.36748,6,2.13186)
+misc(5.33128,4,-3.52456)
+pizza(7.43106,7,-2.49413)
+salad(17.4877,17,4.10104)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110607142552.jpg
+actual class(es): sandwiches 
+to check: 31 points
+cookies(15.7624,15,4.84288)
+indian(7.06965,6,3.73897)
+italian(3.63441,3,2.05156)
+mexican(7.07107,5,5)
+pizza(1.27507,1,0.791076)
+salad(1.40017,1,0.980043)
+max_class: cookies, max_class1: mexican
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110607145418.jpg
+actual class(es): salad 
+to check: 39 points
+cookies(7.58927,3,-6.97115)
+indian(10.2029,10,2.02467)
+italian(16.652,16,4.61414)
+pizza(4.0918,2,-3.56971)
+salad(6.9514,6,3.51026)
+max_class: italian, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110607182304.jpg
+actual class(es): italian salad sandwiches 
+to check: 52 points
+cookies(10.1167,10,1.53225)
+indian(12.0365,10,6.69907)
+italian(8.00924,7,3.89203)
+misc(6.41437,6,-2.26808)
+pizza(6.06181,6,0.863457)
+salad(18.472,13,-13.123)
+max_class: salad, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110607185537.jpg
+actual class(es): cookies fruit_veggie 
+to check: 56 points
+cookies(19.3837,17,9.31286)
+indian(14.1596,12,7.51624)
+italian(6.14651,5,3.57485)
+mexican(4.24264,3,3)
+pizza(5.02604,5,-0.51096)
+salad(17.4707,14,10.4512)
+max_class: cookies, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110608010058.jpg
+actual class(es): pizza 
+to check: 29 points
+indian(2.92151,2,-2.12961)
+italian(4.00831,4,-0.258046)
+misc(34.7123,18,-29.6807)
+salad(24.4154,5,-23.8979)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110608112454.jpg
+actual class(es): italian 
+to check: 43 points
+cookies(1.07512,1,0.394814)
+indian(18.0003,16,8.24693)
+italian(2.03299,2,0.364758)
+mexican(5.65685,4,4)
+misc(21.3207,18,-11.4269)
+pizza(1.04159,1,-0.291376)
+sandwiches(1.41421,1,1)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110608150406.jpg
+actual class(es): pizza 
+to check: 59 points
+cookies(5.48152,5,2.24656)
+indian(25.5302,25,5.17589)
+italian(2.4023,2,1.3308)
+misc(7.23355,6,-4.04032)
+pizza(18.0581,18,1.44742)
+salad(3.02484,3,0.386857)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110608150513.jpg
+actual class(es): wraps 
+to check: 58 points
+cookies(2.56555,2,1.60688)
+indian(23.9376,23,6.63383)
+italian(5.93359,5,3.19492)
+misc(2.01245,2,-0.223492)
+pizza(16.706,16,4.80528)
+salad(9.59285,9,3.32005)
+sandwiches(1.41421,1,1)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110608151120.jpg
+actual class(es): wraps indian 
+to check: 64 points
+cookies(9.55515,9,3.20949)
+indian(24.4035,23,8.15654)
+italian(9.2083,9,1.9475)
+mexican(1.41421,1,1)
+misc(4.10207,3,-2.79768)
+pizza(13.7319,12,6.67567)
+salad(8.24995,7,4.36597)
+max_class: indian, max_class1: pizza
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110608170943.jpg
+actual class(es): salad 
+to check: 37 points
+indian(6.6927,6,2.96518)
+misc(34.5888,22,-26.6905)
+pizza(1.04206,1,0.293054)
+salad(8.02168,8,-0.589361)
+max_class: misc, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110608192622.jpg
+actual class(es): fruit_veggie salad 
+to check: 53 points
+cookies(10.0445,10,0.94439)
+indian(18.9695,17,8.41687)
+italian(3.00005,3,0.0166498)
+mexican(1.41421,1,1)
+misc(7.00572,6,-3.61665)
+pizza(1.02659,1,0.232141)
+salad(16.8968,15,7.77837)
+max_class: indian, max_class1: salad
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110608194333.jpg
+actual class(es): fruit_veggie salad 
+to check: 56 points
+cookies(3.62015,3,2.02619)
+indian(12.7579,12,4.33165)
+italian(14.7693,14,4.70454)
+mexican(2.82843,2,2)
+misc(27.5102,17,-21.629)
+pizza(1.36217,1,0.924941)
+salad(8.50553,7,4.83157)
+max_class: misc, max_class1: italian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110609142026.jpg
+actual class(es): fruit_veggie 
+to check: 41 points
+cookies(14.2276,9,-11.0193)
+indian(17.8245,17,-5.35829)
+italian(3.73197,3,2.21982)
+pizza(7.23431,7,1.82625)
+salad(12.1267,4,-11.448)
+max_class: indian, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110609170603.jpg
+actual class(es): salad 
+to check: 54 points
+cookies(10.9555,8,-7.48486)
+indian(10.1917,10,1.96728)
+italian(1.04445,1,-0.301469)
+misc(4.18687,4,-1.23687)
+pizza(10.221,4,-9.40584)
+salad(96.1491,25,-92.8421)
+max_class: salad, max_class1: cookies
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110609225610.jpg
+actual class(es): misc 
+to check: 35 points
+cookies(1.04603,1,0.306891)
+indian(15.2396,15,-2.69145)
+misc(22.3093,13,-18.1302)
+pizza(2.0006,2,0.048999)
+salad(9.6212,4,-8.75029)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110609234258.jpg
+actual class(es): pizza 
+to check: 65 points
+cookies(6.41801,5,4.02379)
+indian(18.6534,18,4.89398)
+italian(7.62142,7,3.01431)
+misc(27.2551,21,-17.3736)
+pizza(4.01579,4,0.355795)
+salad(10.876,10,4.27641)
+max_class: misc, max_class1: indian
+eval file: /home/lindo/dev/opencv-test/bow/TEST/20110613155413.jpg
+actual class(es): fruit_veggie cookies 
+to check: 52 points
+cookies(8.38334,8,2.50608)
+indian(3.34276,3,-1.47447)
+italian(12.0018,10,6.63648)
+misc(2.00105,2,-0.0647327)
+pizza(13.5737,13,3.90446)
+salad(15.9323,14,7.60517)
+max_class: salad, max_class1: pizza
+total test samples: 429, total classified good: 38.23%, total classified bad: 61.54%, 
+confusion matrix: 
+  predicted->        pizza      italian        salad         misc      cookies      mexican fruit_veggie       indian   sandwiches        wraps
+        pizza           29            5            4            6            0            0            0            1            0            0
+      italian            1           37            5           12            3            0            0           11            0            0
+        salad            2           15           22            6            5            0            0           15            0            0
+         misc            0            2           15           26            6            0            0           14            0            0
+      cookies            2            3            5            6           27            0            0           10            0            0
+      mexican            0            0            0            0            0            0            0            3            0            0
+ fruit_veggie            2            2            6            6            8            0            0           17            0            0
+       indian            0            3            1            3            0            0            0           23            0            0
+   sandwiches            1            4            7            5           14            1            0           11            0            0
+        wraps            0            2            2            1            5            1            0            5            0            0
